@@ -1,0 +1,1001 @@
+﻿age,gender,marriage,children,family ,education,income,car,income_type,house,work_days,registraion_time,document_change,jobtitle,amount ,rate ,period,time,social_stability,social_exposure,social_quality,sentiment,defaulter
+24,female,divorced,have,5,Junior school,500000,yes,1,own,6,30,10,software engineer,2000000,15,30,1,3,2,1,0,1
+33,female,married,don't have,3,masters,600000,yes,3,own,6,20,10,executive chef,3000000,12,35,10,9,3,0,0,0
+34,male,married,don't have,3,bachelors,2000000,yes,4,own,5,20,15,business,2000000,12,35,9,7,2,0,1,0
+44,male,unmarried,don't have,3,Junior school,3500000,no,1,own,6,30,10,executive chef,6000000,12.5,30,12,15,4,0,1,0
+41,male,unmarried,have,4,masters,2000000,no,6,own,3,30,15,manager,30000000,12,30,1,2,3,1,0,1
+32,male,unmarried,have,5,masters,2000000,yes,2,parent's house,6,20,10,data analyst,3000000,13.5,15,11,10,4,0,0,0
+21,female,married,have,4,bachelors,1800000,yes,2,own,5,30,20,executive chef,50000000,13,30,11,10,1,1,1,0
+37,female,married,have,2,bachelors,700000,no,5,rent,5,20,15,manager,2000000,18,18,11,1,3,2,0,1
+21,female,unmarried,have,1,masters,500000,yes,5,own,7,20,20,data analyst,3000000,18,12,10,12,4,0,0,0
+48,female,married,don't have,5,masters,500000,no,3,own,6,30,20,business,5000000,12,15,11,4,4,2,0,1
+49,female,divorced,don't have,1,masters,2000000,no,2,parent's house,5,20,20,business,3000000,13.5,10,9,5,4,1,0,1
+42,male,married,have,3,Junior school,1500000,no,6,rent,7,30,20,executive chef,50000000,12.5,40,11,10,3,0,1,0
+21,male,unmarried,have,4,bachelors,1800000,yes,1,own,3,20,15,executive chef,6000000,15,12,12,7,3,1,1,0
+23,male,unmarried,don't have,1,masters,1800000,yes,5,own,3,20,20,business,8000000,12.5,45,11,1,3,2,0,1
+48,male,unmarried,have,2,masters,1800000,yes,2,rent,7,20,15,executive chef,6000000,13.5,40,12,25,3,0,1,0
+34,female,married,have,1,bachelors,1500000,no,6,own,7,20,10,data analyst,3000000,13,15,9,6,4,0,0,0
+29,female,married,don't have,3,Junior school,900000,no,1,own,3,30,20,business,6000000,12,35,1,8,2,1,1,0
+46,male,divorced,don't have,2,masters,2500000,yes,1,own,5,20,15,manager,4000000,12,30,12,1,3,1,0,1
+38,female,married,don't have,4,bachelors,700000,no,2,rent,6,30,15,manager,4000000,13.5,40,9,12,4,2,1,0
+38,female,unmarried,have,1,bachelors,700000,no,1,parent's house,6,20,20,Tech lead,2000000,12,8,10,15,3,0,1,0
+21,female,married,don't have,2,Junior school,1800000,yes,6,parent's house,6,30,10,executive chef,50000000,18,25,1,0.9,3,1,0,1
+30,male,unmarried,don't have,2,masters,2000000,no,2,rent,6,30,20,software engineer,8000000,13,10,11,20,3,1,1,0
+33,male,married,don't have,4,bachelors,700000,no,1,rent,7,20,10,executive chef,6000000,12,10,11,11,2,0,1,0
+50,male,married,have,2,Junior school,3500000,yes,2,parent's house,3,30,10,data analyst,50000000,18,8,12,1,1,1,0,1
+50,male,divorced,don't have,3,bachelors,2500000,yes,1,rent,5,30,20,software engineer,3000000,15,35,11,9,4,0,0,0
+42,male,divorced,have,1,bachelors,1600000,yes,6,own,3,20,10,executive chef,4000000,15,18,9,0.8,4,1,0,1
+41,male,married,don't have,4,bachelors,700000,no,2,rent,6,30,10,Tech lead,6000000,15,45,9,7,1,0,1,0
+36,female,married,have,4,masters,900000,no,6,parent's house,3,20,10,manager,9000000,12,8,11,3,3,1,0,1
+30,male,divorced,don't have,4,masters,1800000,no,5,own,6,30,10,Tech lead,2000000,13,10,9,9,4,0,1,0
+45,male,unmarried,don't have,4,Junior school,1600000,yes,2,own,6,20,20,software engineer,50000000,18,8,1,8,2,0,1,0
+21,female,unmarried,don't have,2,masters,1500000,yes,2,parent's house,5,20,10,data analyst,2000000,15,18,11,3,2,1,0,1
+26,female,unmarried,don't have,5,Junior school,2500000,yes,2,rent,6,20,10,Tech lead,9000000,12,18,10,5,2,1,0,1
+21,female,unmarried,have,3,Junior school,1500000,yes,4,own,3,20,10,manager,3000000,12,12,10,0.9,3,1,0,1
+39,female,divorced,don't have,3,Junior school,2000000,yes,4,parent's house,7,30,20,executive chef,30000000,13.5,25,10,13,3,0,1,0
+43,female,married,have,5,bachelors,600000,no,6,rent,3,20,10,data analyst,3000000,15,25,12,5,4,1,0,1
+36,male,married,don't have,1,bachelors,1600000,no,2,own,3,20,15,Tech lead,2000000,15,15,12,1,3,1,0,1
+40,female,divorced,have,3,Junior school,600000,yes,5,own,6,20,20,Tech lead,9000000,15,45,1,10,2,0,1,0
+22,male,divorced,don't have,1,Junior school,1800000,yes,2,own,6,20,15,executive chef,9000000,13,18,1,9,1,0,1,0
+31,male,divorced,don't have,1,bachelors,800000,no,5,parent's house,6,30,15,data analyst,9000000,12,8,12,7,2,0,1,0
+29,male,unmarried,don't have,4,bachelors,700000,no,6,own,5,30,20,data analyst,7000000,13.5,40,12,10,2,0,1,0
+45,female,married,have,5,Junior school,1500000,yes,6,rent,6,30,20,executive chef,50000000,18,10,1,7,2,1,1,0
+33,female,married,don't have,2,bachelors,700000,no,1,own,5,30,10,Tech lead,7000000,18,35,11,20,4,0,0,0
+36,female,divorced,don't have,2,bachelors,1800000,no,6,rent,7,30,10,software engineer,8000000,18,8,11,15,2,0,1,0
+23,male,divorced,have,4,bachelors,500000,no,4,rent,5,30,15,data analyst,8000000,15,12,9,1,3,2,0,1
+30,male,married,have,1,bachelors,2000000,yes,1,parent's house,5,30,15,data analyst,3000000,12,15,10,10,3,0,1,0
+50,female,divorced,have,4,bachelors,700000,yes,2,own,6,20,20,executive chef,4000000,15,8,10,20,4,1,1,0
+24,female,unmarried,don't have,3,masters,900000,yes,2,parent's house,3,30,10,Tech lead,2000000,12,30,9,21,2,0,0,0
+26,female,unmarried,don't have,2,bachelors,2000000,no,5,rent,3,30,15,executive chef,6000000,12,40,11,7,1,0,1,0
+48,female,unmarried,don't have,4,bachelors,500000,no,3,rent,6,30,15,business,5000000,18,35,10,22,3,2,1,0
+50,female,unmarried,have,1,bachelors,800000,yes,6,own,5,30,15,executive chef,5000000,12.5,45,12,3,2,1,0,1
+39,female,unmarried,have,2,Junior school,2000000,yes,5,parent's house,6,20,10,executive chef,2000000,13.5,8,12,9,3,0,0,0
+47,male,divorced,have,3,masters,3500000,no,5,rent,6,20,20,Tech lead,8000000,13,40,10,7,2,0,1,0
+43,female,married,have,4,bachelors,800000,yes,1,parent's house,6,20,20,data analyst,5000000,12,40,10,15,4,0,1,0
+37,female,divorced,don't have,3,Junior school,500000,yes,6,parent's house,5,20,20,business,6000000,13,35,1,2,3,1,0,1
+37,female,unmarried,have,5,bachelors,2000000,no,5,rent,3,20,20,software engineer,4000000,13,12,11,10,4,0,0,0
+44,female,divorced,don't have,4,bachelors,900000,yes,1,parent's house,5,30,10,data analyst,50000000,18,45,12,10,1,1,1,0
+42,female,unmarried,have,2,Junior school,900000,no,2,rent,7,20,10,manager,8000000,12,8,12,1,3,2,0,1
+23,male,married,have,2,masters,1800000,yes,5,parent's house,7,30,10,business,50000000,15,18,12,12,4,0,0,0
+27,female,unmarried,have,1,masters,5500000,no,6,own,7,20,20,business,30000000,13.5,25,1,4,4,2,0,1
+47,male,divorced,don't have,3,Junior school,500000,yes,3,parent's house,7,30,10,business,4000000,13,12,12,5,4,1,0,1
+30,male,divorced,have,3,bachelors,700000,yes,3,parent's house,7,30,15,executive chef,8000000,12.5,30,12,10,3,0,1,0
+43,male,divorced,have,4,bachelors,1800000,no,6,own,5,20,10,data analyst,30000000,12.5,12,12,7,3,1,1,0
+48,female,married,have,2,bachelors,600000,yes,5,parent's house,5,20,10,data analyst,8000000,18,18,11,1,3,2,0,1
+43,male,unmarried,have,2,Junior school,2500000,yes,4,rent,6,20,10,Tech lead,2000000,18,45,1,25,3,0,1,0
+30,male,divorced,don't have,1,Junior school,1600000,no,1,parent's house,7,20,15,software engineer,7000000,13.5,45,10,6,4,0,0,0
+27,female,unmarried,have,1,Junior school,2500000,yes,5,own,6,20,15,executive chef,3000000,12.5,8,11,8,2,1,1,0
+40,female,unmarried,have,2,Junior school,3500000,yes,2,rent,5,30,20,data analyst,4000000,12,40,10,1,3,1,0,1
+33,male,unmarried,don't have,4,Junior school,900000,no,2,parent's house,7,20,15,manager,2000000,13,18,9,12,4,2,1,0
+21,male,divorced,have,1,bachelors,700000,no,6,parent's house,6,20,10,manager,6000000,13.5,12,1,15,3,0,1,0
+33,female,unmarried,don't have,3,masters,800000,no,5,rent,3,30,15,manager,7000000,12.5,8,11,0.9,3,1,0,1
+26,female,married,have,2,Junior school,600000,yes,6,own,5,20,10,Tech lead,8000000,13,35,11,20,3,1,1,0
+42,female,unmarried,don't have,4,bachelors,3500000,no,3,parent's house,6,30,10,business,50000000,13,25,1,11,2,0,1,0
+29,female,unmarried,don't have,1,bachelors,1500000,no,6,own,6,30,20,Tech lead,6000000,13.5,15,9,1,1,1,0,1
+22,male,married,don't have,3,bachelors,3500000,yes,4,rent,3,30,20,executive chef,6000000,12,15,11,9,4,0,0,0
+46,female,unmarried,don't have,2,bachelors,1500000,yes,1,rent,7,30,20,Tech lead,8000000,12,25,10,0.8,4,1,0,1
+47,female,unmarried,have,4,Junior school,1600000,yes,2,rent,6,20,20,software engineer,5000000,13,15,12,7,1,0,1,0
+50,male,married,don't have,2,bachelors,500000,no,5,own,6,20,15,software engineer,30000000,12,25,10,3,3,1,0,1
+36,male,married,don't have,4,Junior school,800000,no,4,own,3,30,20,Tech lead,7000000,12.5,12,1,9,4,0,1,0
+40,female,unmarried,don't have,4,masters,2000000,no,1,own,5,30,10,business,7000000,13,18,1,8,2,0,1,0
+28,female,unmarried,don't have,2,bachelors,600000,yes,2,rent,6,20,10,software engineer,7000000,18,35,12,3,2,1,0,1
+27,male,divorced,have,2,Junior school,600000,yes,6,own,3,20,10,Tech lead,30000000,12,30,1,5,2,1,0,1
+47,male,unmarried,have,3,Junior school,900000,no,1,own,7,30,20,Tech lead,5000000,15,15,12,0.9,3,1,0,1
+48,female,married,have,5,masters,1500000,yes,1,parent's house,5,30,20,Tech lead,2000000,13.5,40,1,13,3,0,1,0
+38,male,divorced,don't have,3,bachelors,2000000,yes,4,own,7,20,20,data analyst,5000000,13,35,11,5,4,1,0,1
+36,male,divorced,have,1,bachelors,3500000,no,2,own,6,20,15,executive chef,30000000,13,25,12,1,3,1,0,1
+24,male,unmarried,don't have,5,masters,800000,no,2,own,3,30,10,Tech lead,30000000,12.5,25,12,10,2,0,1,0
+34,male,unmarried,have,3,Junior school,600000,no,3,parent's house,7,20,15,business,4000000,15,25,10,9,1,0,1,0
+46,female,divorced,don't have,2,bachelors,900000,yes,5,own,6,20,20,software engineer,30000000,13.5,15,11,7,2,0,1,0
+24,male,divorced,don't have,4,Junior school,2500000,no,3,rent,6,30,15,business,8000000,13,8,9,10,2,0,1,0
+33,male,married,have,2,bachelors,1500000,no,1,rent,5,20,15,Tech lead,30000000,18,8,12,7,2,1,1,0
+45,male,married,don't have,1,Junior school,3500000,no,4,parent's house,3,30,20,business,4000000,15,45,11,20,4,0,0,0
+21,male,divorced,have,4,masters,800000,yes,3,own,6,20,10,Tech lead,5000000,13,25,12,15,2,0,1,0
+25,female,divorced,don't have,5,bachelors,1600000,no,1,parent's house,6,20,20,executive chef,2000000,12.5,15,11,1,3,2,0,1
+31,female,unmarried,have,2,bachelors,700000,yes,2,own,6,30,10,software engineer,8000000,15,8,11,10,3,0,1,0
+24,male,divorced,don't have,2,masters,5500000,no,6,own,5,30,10,data analyst,5000000,12,45,9,20,4,1,1,0
+37,female,unmarried,don't have,4,Junior school,5500000,no,6,parent's house,7,30,20,software engineer,6000000,15,25,11,21,2,0,0,0
+28,female,unmarried,have,2,masters,3500000,no,5,rent,5,30,20,business,2000000,18,25,10,7,1,0,1,0
+46,male,married,have,2,Junior school,1600000,no,3,rent,5,30,15,Tech lead,6000000,12,30,10,22,3,2,1,0
+30,male,divorced,don't have,2,masters,3500000,no,4,parent's house,5,20,15,manager,6000000,15,8,1,3,2,1,0,1
+44,male,married,have,5,bachelors,500000,yes,1,rent,6,30,10,executive chef,2000000,12.5,10,12,9,3,0,0,0
+40,female,divorced,don't have,1,masters,700000,yes,3,own,3,30,15,Tech lead,4000000,12,40,1,7,2,0,1,0
+24,male,unmarried,don't have,5,bachelors,2000000,yes,6,rent,3,30,15,data analyst,2000000,15,8,10,15,4,0,1,0
+31,female,married,have,1,Junior school,600000,yes,2,own,6,30,10,business,2000000,12.5,8,9,2,3,1,0,1
+48,male,unmarried,have,1,Junior school,3500000,no,5,rent,3,30,10,business,30000000,13.5,10,11,10,4,0,0,0
+45,male,unmarried,have,2,bachelors,3500000,yes,6,own,6,30,20,business,8000000,13,18,10,10,1,1,1,0
+47,female,divorced,don't have,2,Junior school,1800000,yes,1,parent's house,6,30,20,software engineer,6000000,13.5,40,11,1,3,2,0,1
+26,male,divorced,don't have,1,bachelors,1500000,no,4,parent's house,5,30,15,business,4000000,15,10,10,12,4,0,0,0
+36,female,married,don't have,4,Junior school,1500000,yes,5,parent's house,3,30,10,manager,3000000,12.5,40,11,4,4,2,0,1
+40,female,married,have,5,masters,700000,yes,3,parent's house,5,20,10,business,2000000,15,45,1,5,4,1,0,1
+32,female,unmarried,don't have,3,masters,700000,yes,6,own,3,30,10,software engineer,6000000,12,35,9,10,3,0,1,0
+31,male,divorced,have,3,Junior school,500000,yes,3,own,6,30,10,data analyst,4000000,13.5,8,12,7,3,1,1,0
+33,male,unmarried,have,5,masters,600000,yes,6,rent,7,20,15,data analyst,9000000,15,12,11,1,3,2,0,1
+44,female,married,have,1,Junior school,3500000,yes,2,own,7,30,20,executive chef,3000000,15,12,11,25,3,0,1,0
+48,male,married,have,1,bachelors,5500000,yes,2,rent,7,20,20,Tech lead,5000000,13.5,8,12,6,4,0,0,0
+37,male,divorced,don't have,5,masters,2500000,yes,3,rent,6,30,15,business,2000000,12.5,25,11,8,2,1,1,0
+45,female,divorced,don't have,5,bachelors,1600000,yes,1,parent's house,6,30,10,software engineer,2000000,12,10,10,1,3,1,0,1
+50,male,divorced,have,3,Junior school,5500000,yes,6,rent,3,30,10,Tech lead,3000000,18,15,12,12,4,2,1,0
+37,female,divorced,have,4,bachelors,1800000,yes,6,rent,5,30,20,executive chef,5000000,15,12,9,15,3,0,1,0
+41,female,married,have,2,masters,3500000,yes,4,rent,6,20,20,data analyst,6000000,12.5,12,11,0.9,3,1,0,1
+46,male,unmarried,have,4,bachelors,600000,no,2,own,3,30,15,Tech lead,7000000,15,25,11,20,3,1,1,0
+24,male,married,have,3,masters,2000000,yes,2,own,7,20,20,business,3000000,18,15,12,11,2,0,1,0
+43,male,unmarried,don't have,1,bachelors,5500000,no,4,parent's house,7,20,15,executive chef,7000000,12.5,12,11,1,1,1,0,1
+37,female,unmarried,have,4,masters,1500000,no,3,parent's house,7,30,20,software engineer,5000000,13.5,30,10,9,4,0,0,0
+30,male,married,don't have,1,bachelors,500000,yes,2,own,5,20,20,manager,8000000,15,25,1,0.8,4,1,0,1
+21,female,unmarried,have,3,masters,800000,yes,5,own,6,30,10,Tech lead,5000000,18,40,10,7,1,0,1,0
+37,male,unmarried,don't have,2,bachelors,1600000,yes,2,own,5,20,20,business,30000000,18,25,10,3,3,1,0,1
+38,female,divorced,don't have,3,bachelors,1500000,no,2,parent's house,7,30,20,executive chef,9000000,13,15,1,9,4,0,1,0
+30,female,unmarried,have,3,Junior school,900000,yes,4,own,6,20,10,data analyst,3000000,18,25,11,8,2,0,1,0
+27,male,married,have,3,bachelors,1800000,no,3,parent's house,5,30,20,manager,6000000,13,40,12,3,2,1,0,1
+23,female,divorced,don't have,2,masters,900000,no,5,own,7,30,20,executive chef,2000000,12,30,12,5,2,1,0,1
+25,female,married,have,1,masters,900000,yes,2,own,3,20,20,manager,4000000,13,15,10,0.9,3,1,0,1
+25,male,divorced,don't have,3,masters,700000,no,4,parent's house,7,20,10,data analyst,4000000,13.5,35,10,13,3,0,1,0
+47,male,unmarried,have,1,masters,1600000,yes,2,rent,5,30,15,business,9000000,13,18,12,5,4,1,0,1
+29,male,married,don't have,5,masters,1500000,yes,6,parent's house,7,30,20,business,4000000,15,35,1,1,3,1,0,1
+33,female,divorced,don't have,5,masters,1800000,no,6,parent's house,3,20,15,software engineer,50000000,13.5,8,10,10,2,0,1,0
+34,male,unmarried,have,1,bachelors,600000,yes,5,parent's house,6,30,20,executive chef,5000000,18,25,1,9,1,0,1,0
+49,male,unmarried,have,3,bachelors,1600000,no,1,own,3,20,10,Tech lead,9000000,13,40,12,7,2,0,1,0
+21,male,married,don't have,4,masters,3500000,no,4,own,6,20,20,data analyst,4000000,18,18,9,10,2,0,1,0
+33,female,married,don't have,2,masters,800000,no,6,parent's house,6,20,20,Tech lead,30000000,13,12,10,7,2,1,1,0
+43,male,divorced,don't have,4,bachelors,1800000,no,1,parent's house,6,30,20,business,3000000,18,25,10,20,4,0,0,0
+29,male,unmarried,have,5,bachelors,600000,yes,3,own,7,30,10,business,50000000,13.5,18,1,15,2,0,1,0
+32,female,divorced,don't have,5,bachelors,800000,yes,1,parent's house,6,20,15,Tech lead,3000000,12.5,15,12,1,3,2,0,1
+46,female,unmarried,have,5,masters,5500000,no,6,rent,5,20,10,Tech lead,4000000,13,40,11,10,3,0,1,0
+44,male,married,don't have,2,masters,1500000,no,5,own,5,30,10,data analyst,8000000,13.5,18,11,20,4,1,1,0
+32,male,divorced,have,2,bachelors,700000,yes,4,rent,5,30,15,Tech lead,30000000,12.5,18,9,21,2,0,0,0
+35,male,divorced,don't have,3,masters,1800000,no,5,own,6,20,10,Tech lead,9000000,15,8,9,7,1,0,1,0
+49,male,unmarried,don't have,4,masters,500000,no,4,own,7,30,20,executive chef,2000000,18,45,11,22,3,2,1,0
+46,male,married,have,5,Junior school,2500000,yes,4,own,5,30,15,Tech lead,50000000,12.5,8,1,3,2,1,0,1
+45,male,married,have,1,bachelors,1500000,yes,2,parent's house,7,30,10,Tech lead,8000000,13,12,11,9,3,0,0,0
+44,male,unmarried,don't have,2,masters,1800000,no,4,rent,5,30,20,executive chef,50000000,12,18,11,7,2,0,1,0
+42,male,divorced,have,5,masters,2000000,yes,5,parent's house,3,30,10,data analyst,7000000,18,8,10,15,4,0,1,0
+40,male,married,don't have,5,masters,3500000,yes,2,parent's house,3,30,15,business,9000000,13,15,9,2,3,1,0,1
+21,male,married,have,5,masters,1600000,no,3,parent's house,6,20,20,business,2000000,13,18,1,10,4,0,0,0
+46,female,divorced,have,4,masters,5500000,yes,5,own,5,20,20,executive chef,6000000,15,10,9,10,1,1,1,0
+39,female,divorced,have,1,masters,3500000,no,2,own,3,30,15,manager,50000000,12,18,10,1,3,2,0,1
+35,male,unmarried,have,5,masters,2500000,no,1,own,7,20,20,data analyst,7000000,15,12,12,12,4,0,0,0
+47,male,divorced,don't have,2,masters,3500000,yes,5,rent,7,30,20,software engineer,5000000,13,25,12,4,4,2,0,1
+49,male,married,don't have,1,masters,700000,yes,4,rent,7,20,20,business,50000000,12.5,15,10,5,4,1,0,1
+28,female,divorced,don't have,3,masters,1600000,no,2,parent's house,7,20,15,executive chef,4000000,18,30,1,10,3,0,1,0
+26,female,unmarried,have,2,Junior school,900000,yes,1,parent's house,6,30,20,executive chef,4000000,12,45,10,7,3,1,1,0
+50,male,married,don't have,3,Junior school,1600000,no,5,own,6,30,10,software engineer,50000000,12,15,12,1,3,2,0,1
+46,female,unmarried,have,3,Junior school,500000,no,5,parent's house,7,20,10,business,3000000,18,35,11,25,3,0,1,0
+41,male,divorced,don't have,2,bachelors,2500000,yes,5,own,3,20,20,Tech lead,8000000,12,10,1,6,4,0,0,0
+43,female,divorced,don't have,1,Junior school,2500000,yes,5,rent,7,30,10,executive chef,50000000,18,40,1,8,2,1,1,0
+21,female,unmarried,don't have,2,masters,1600000,no,2,own,3,30,15,manager,5000000,13,18,1,1,3,1,0,1
+24,female,married,have,2,Junior school,2500000,no,4,parent's house,6,20,20,data analyst,2000000,13.5,25,10,12,4,2,1,0
+38,male,divorced,don't have,5,masters,2000000,no,5,parent's house,6,20,20,business,4000000,18,45,12,15,3,0,1,0
+21,male,unmarried,have,4,bachelors,800000,yes,6,parent's house,5,30,10,manager,5000000,15,45,9,0.9,3,1,0,1
+40,female,divorced,have,1,bachelors,1600000,no,1,rent,7,20,10,executive chef,30000000,18,45,10,20,3,1,1,0
+40,female,unmarried,have,5,masters,900000,yes,2,own,7,20,15,executive chef,30000000,13,30,11,11,2,0,1,0
+41,male,divorced,have,4,Junior school,600000,no,4,own,5,20,10,Tech lead,7000000,13,30,1,1,1,1,0,1
+35,male,divorced,don't have,5,Junior school,1500000,no,4,parent's house,6,30,20,software engineer,2000000,18,12,9,9,4,0,0,0
+48,male,unmarried,have,4,masters,900000,yes,4,rent,3,20,20,software engineer,4000000,13,15,12,0.8,4,1,0,1
+40,female,unmarried,have,4,Junior school,600000,yes,4,parent's house,5,30,15,executive chef,5000000,12.5,8,12,7,1,0,1,0
+40,male,married,have,1,masters,2500000,no,3,own,3,30,20,Tech lead,3000000,13,8,11,3,3,1,0,1
+37,female,divorced,don't have,5,masters,1600000,yes,5,rent,7,20,20,executive chef,6000000,12,15,11,9,4,0,1,0
+48,male,married,don't have,1,bachelors,1800000,no,5,parent's house,6,20,10,executive chef,9000000,12,40,9,8,2,0,1,0
+39,female,unmarried,have,4,bachelors,900000,no,4,parent's house,5,20,20,software engineer,2000000,13,15,9,3,2,1,0,1
+42,female,divorced,have,1,bachelors,2000000,no,3,rent,5,30,20,software engineer,7000000,18,40,12,5,2,1,0,1
+45,male,unmarried,don't have,1,bachelors,3500000,yes,5,own,6,30,15,business,4000000,13,15,11,0.9,3,1,0,1
+44,male,divorced,don't have,3,Junior school,5500000,no,3,parent's house,6,20,10,manager,8000000,12.5,18,10,13,3,0,1,0
+42,female,married,have,4,masters,500000,no,1,rent,6,20,10,data analyst,7000000,13.5,30,1,5,4,1,0,1
+22,female,unmarried,have,1,masters,1800000,no,5,own,7,20,10,Tech lead,9000000,15,15,1,1,3,1,0,1
+38,male,divorced,have,3,bachelors,1500000,yes,1,parent's house,6,20,10,Tech lead,50000000,12.5,15,12,10,2,0,1,0
+41,male,unmarried,don't have,4,Junior school,600000,no,6,parent's house,6,30,10,software engineer,2000000,15,45,9,9,1,0,1,0
+44,male,married,have,3,Junior school,1600000,yes,1,parent's house,6,20,15,data analyst,50000000,12,25,1,7,2,0,1,0
+42,male,married,have,5,bachelors,1800000,yes,3,own,5,20,15,business,9000000,12.5,8,9,10,2,0,1,0
+31,male,divorced,have,1,bachelors,1600000,no,6,own,6,30,20,manager,2000000,13.5,25,1,7,2,1,1,0
+37,female,married,have,2,bachelors,1800000,no,6,parent's house,5,20,10,business,50000000,13,25,12,20,4,0,0,0
+27,female,unmarried,don't have,5,Junior school,5500000,yes,4,parent's house,6,20,15,business,4000000,13.5,35,10,15,2,0,1,0
+49,male,married,don't have,3,Junior school,700000,no,6,own,6,30,10,manager,30000000,13.5,12,12,1,3,2,0,1
+33,female,married,have,2,bachelors,2500000,yes,3,rent,7,20,15,executive chef,3000000,15,35,1,10,3,0,1,0
+35,female,married,don't have,2,bachelors,1500000,no,2,parent's house,3,20,20,manager,3000000,13,25,12,20,4,1,1,0
+22,male,married,have,5,bachelors,500000,no,2,own,5,20,15,executive chef,4000000,15,30,9,21,2,0,0,0
+26,male,married,don't have,2,bachelors,900000,no,6,rent,5,20,20,software engineer,5000000,18,12,10,7,1,0,1,0
+24,female,unmarried,don't have,3,Junior school,700000,yes,4,rent,3,30,20,business,6000000,18,10,1,22,3,2,1,0
+39,female,divorced,don't have,1,bachelors,3500000,no,4,own,7,30,20,data analyst,5000000,12.5,45,9,3,2,1,0,1
+49,female,married,have,1,masters,500000,yes,3,own,7,30,10,manager,5000000,12,8,11,9,3,0,0,0
+32,male,married,have,1,bachelors,600000,yes,2,parent's house,7,30,10,executive chef,2000000,13,40,1,7,2,0,1,0
+22,male,married,don't have,4,Junior school,1500000,no,6,parent's house,3,30,10,executive chef,6000000,13,18,10,15,4,0,1,0
+43,female,divorced,don't have,4,bachelors,3500000,yes,4,rent,5,20,10,manager,5000000,13.5,25,10,2,3,1,0,1
+28,male,married,don't have,2,bachelors,1800000,no,1,rent,6,20,20,manager,7000000,13,30,10,10,4,0,0,0
+44,female,unmarried,don't have,4,masters,2500000,no,1,own,5,30,15,executive chef,7000000,12.5,40,10,10,1,1,1,0
+44,female,married,don't have,5,Junior school,2500000,no,5,own,7,20,15,manager,8000000,18,40,11,1,3,2,0,1
+26,female,divorced,don't have,2,Junior school,800000,no,5,parent's house,3,20,10,manager,50000000,15,15,11,12,4,0,0,0
+22,female,unmarried,don't have,3,masters,500000,no,6,own,3,20,10,manager,7000000,12,40,10,4,4,2,0,1
+35,male,unmarried,don't have,5,Junior school,1500000,no,3,rent,3,20,15,Tech lead,3000000,12.5,35,11,5,4,1,0,1
+42,male,divorced,have,2,bachelors,600000,yes,6,parent's house,6,20,10,manager,9000000,12.5,12,10,10,3,0,1,0
+44,male,divorced,have,5,bachelors,700000,yes,2,own,7,30,10,manager,50000000,18,25,12,7,3,1,1,0
+47,male,married,have,2,bachelors,2000000,yes,5,parent's house,7,30,15,Tech lead,9000000,12.5,25,10,1,3,2,0,1
+31,female,married,have,4,masters,1600000,yes,6,own,5,30,10,business,2000000,12,45,10,25,3,0,1,0
+48,female,married,have,3,Junior school,600000,yes,3,parent's house,5,20,15,Tech lead,4000000,15,45,9,6,4,0,0,0
+24,female,unmarried,don't have,5,masters,2500000,no,2,parent's house,3,30,20,manager,4000000,13.5,18,10,8,2,1,1,0
+28,male,married,don't have,3,masters,3500000,yes,5,parent's house,7,20,10,executive chef,2000000,12,15,12,1,3,1,0,1
+39,female,unmarried,don't have,4,masters,1800000,no,5,parent's house,7,20,15,executive chef,30000000,13.5,45,1,12,4,2,1,0
+45,female,married,have,1,masters,700000,no,6,parent's house,5,30,15,executive chef,6000000,13,10,10,15,3,0,1,0
+35,female,married,have,5,bachelors,3500000,yes,5,parent's house,7,20,20,business,4000000,15,10,11,0.9,3,1,0,1
+25,female,divorced,have,3,masters,900000,no,1,own,5,30,20,business,30000000,18,40,11,20,3,1,1,0
+21,male,unmarried,don't have,1,Junior school,1600000,yes,6,own,5,30,15,business,2000000,18,25,12,11,2,0,1,0
+44,female,unmarried,don't have,2,masters,3500000,no,6,own,5,20,15,software engineer,50000000,15,8,9,1,1,1,0,1
+33,male,unmarried,don't have,2,Junior school,1500000,yes,5,rent,7,20,20,Tech lead,3000000,12.5,10,11,9,4,0,0,0
+34,male,unmarried,don't have,3,bachelors,1500000,no,5,parent's house,6,20,20,data analyst,2000000,13,15,11,0.8,4,1,0,1
+35,male,married,don't have,1,Junior school,3500000,no,3,parent's house,3,20,10,software engineer,8000000,18,8,12,7,1,0,1,0
+46,female,divorced,don't have,4,masters,900000,yes,6,own,7,20,20,data analyst,3000000,12,35,11,3,3,1,0,1
+23,male,divorced,don't have,4,masters,500000,no,3,own,6,30,20,business,4000000,12,25,11,9,4,0,1,0
+46,male,divorced,have,4,masters,2500000,yes,4,rent,3,30,15,software engineer,4000000,15,35,1,8,2,0,1,0
+21,female,divorced,have,3,bachelors,5500000,no,2,rent,6,30,10,manager,2000000,15,10,9,3,2,1,0,1
+38,male,unmarried,have,5,Junior school,1600000,yes,1,rent,7,20,10,manager,50000000,12.5,15,1,5,2,1,0,1
+50,female,divorced,have,1,bachelors,600000,yes,5,parent's house,5,20,15,business,4000000,13,12,11,0.9,3,1,0,1
+43,female,divorced,don't have,1,Junior school,2000000,yes,1,own,5,30,15,business,8000000,13.5,15,12,13,3,0,1,0
+27,male,married,have,2,bachelors,2500000,yes,2,own,5,20,10,software engineer,2000000,12.5,8,11,5,4,1,0,1
+31,male,divorced,don't have,4,bachelors,2500000,no,1,own,5,20,15,manager,30000000,13.5,35,12,1,3,1,0,1
+47,male,divorced,have,4,Junior school,5500000,yes,1,rent,6,20,15,Tech lead,6000000,18,25,10,10,2,0,1,0
+37,male,unmarried,don't have,3,bachelors,1600000,yes,1,rent,6,30,10,software engineer,7000000,15,40,11,9,1,0,1,0
+36,female,divorced,have,1,bachelors,900000,yes,4,own,6,20,15,software engineer,4000000,13.5,10,10,7,2,0,1,0
+45,male,unmarried,don't have,3,Junior school,1600000,yes,4,own,5,30,10,business,3000000,18,25,10,10,2,0,1,0
+44,female,married,don't have,5,masters,1500000,yes,5,parent's house,6,30,15,data analyst,3000000,13,45,10,7,2,1,1,0
+50,male,married,have,4,bachelors,1600000,no,4,own,3,30,20,data analyst,5000000,13.5,25,9,20,4,0,0,0
+49,male,married,don't have,5,bachelors,2000000,no,6,parent's house,6,20,20,data analyst,6000000,15,30,10,15,2,0,1,0
+43,female,married,have,1,masters,2500000,yes,3,own,5,20,15,executive chef,3000000,18,45,12,1,3,2,0,1
+35,male,married,have,2,bachelors,1600000,yes,1,own,3,20,10,business,50000000,15,45,9,10,3,0,1,0
+40,female,married,don't have,1,Junior school,800000,no,4,parent's house,6,20,10,Tech lead,5000000,18,18,12,20,4,1,1,0
+29,male,married,have,5,Junior school,500000,yes,4,parent's house,5,30,15,executive chef,4000000,13,30,11,21,2,0,0,0
+45,male,married,have,3,masters,700000,yes,3,own,6,30,20,manager,30000000,12.5,8,9,7,1,0,1,0
+30,male,married,have,4,bachelors,900000,yes,3,parent's house,7,20,20,executive chef,5000000,12.5,10,10,22,3,2,1,0
+42,female,divorced,don't have,4,Junior school,600000,no,5,rent,3,20,15,Tech lead,6000000,13.5,15,12,3,2,1,0,1
+39,female,married,don't have,3,Junior school,800000,yes,6,own,7,20,10,data analyst,9000000,15,35,9,9,3,0,0,0
+42,female,married,don't have,1,masters,1800000,yes,5,rent,5,20,15,Tech lead,6000000,13,12,11,7,2,0,1,0
+29,female,married,don't have,3,bachelors,500000,yes,3,own,6,20,15,data analyst,6000000,13,8,9,15,4,0,1,0
+35,male,unmarried,have,1,bachelors,1800000,yes,1,parent's house,6,20,20,manager,7000000,12,12,11,2,3,1,0,1
+25,female,divorced,don't have,5,Junior school,3500000,no,5,parent's house,3,20,10,software engineer,3000000,12.5,15,1,10,4,0,0,0
+29,female,divorced,don't have,1,masters,1800000,yes,6,own,3,20,15,manager,9000000,13,18,9,10,1,1,1,0
+35,female,divorced,have,2,bachelors,1800000,no,2,own,7,30,20,business,9000000,12.5,45,9,1,3,2,0,1
+40,female,married,have,5,masters,1600000,no,1,parent's house,6,30,15,data analyst,6000000,13.5,35,9,12,4,0,0,0
+22,male,married,have,4,masters,2500000,no,4,own,5,20,15,Tech lead,2000000,13.5,25,11,4,4,2,0,1
+32,female,married,don't have,4,Junior school,2500000,no,1,parent's house,7,20,15,business,5000000,18,45,12,5,4,1,0,1
+25,female,divorced,have,3,Junior school,2000000,yes,5,own,7,30,15,business,5000000,13.5,35,12,10,3,0,1,0
+43,male,unmarried,have,1,Junior school,1600000,no,2,rent,7,20,20,software engineer,6000000,13,25,11,7,3,1,1,0
+22,male,divorced,have,4,bachelors,2500000,yes,3,parent's house,5,20,10,business,7000000,12.5,8,10,1,3,2,0,1
+32,male,divorced,have,2,Junior school,5500000,no,1,parent's house,6,20,10,software engineer,4000000,13.5,25,1,25,3,0,1,0
+43,female,married,have,2,Junior school,1600000,no,1,rent,7,30,20,executive chef,7000000,13.5,8,9,6,4,0,0,0
+45,female,unmarried,don't have,2,masters,1800000,no,3,own,5,30,10,business,2000000,15,12,1,8,2,1,1,0
+24,female,married,have,3,Junior school,5500000,yes,5,rent,3,20,10,software engineer,9000000,12.5,10,9,1,3,1,0,1
+23,male,divorced,have,1,Junior school,800000,no,4,parent's house,6,30,15,manager,8000000,12,15,1,12,4,2,1,0
+31,male,married,don't have,5,Junior school,600000,yes,5,parent's house,7,30,10,software engineer,7000000,18,45,11,15,3,0,1,0
+49,male,unmarried,have,2,masters,2000000,no,2,rent,6,20,15,business,2000000,12,45,12,0.9,3,1,0,1
+41,male,unmarried,don't have,4,masters,1800000,yes,4,own,6,30,20,executive chef,3000000,18,8,1,20,3,1,1,0
+40,male,married,don't have,3,masters,1600000,yes,5,own,5,30,20,data analyst,9000000,18,45,11,11,2,0,1,0
+25,female,married,don't have,4,masters,1500000,no,3,own,6,30,15,manager,4000000,18,35,10,1,1,1,0,1
+50,female,divorced,don't have,1,bachelors,2500000,yes,4,parent's house,7,20,10,manager,8000000,18,12,11,9,4,0,0,0
+40,female,divorced,have,3,masters,700000,yes,3,own,5,30,15,software engineer,30000000,15,30,11,0.8,4,1,0,1
+33,female,unmarried,have,5,bachelors,2000000,yes,4,rent,6,20,20,Tech lead,3000000,15,15,9,7,1,0,1,0
+40,female,unmarried,have,5,bachelors,2500000,no,1,rent,5,30,15,data analyst,7000000,15,15,11,3,3,1,0,1
+27,male,married,have,3,Junior school,5500000,no,6,rent,6,30,20,software engineer,9000000,15,45,12,9,4,0,1,0
+33,male,married,have,1,Junior school,1500000,yes,6,rent,7,20,10,manager,6000000,15,30,12,8,2,0,1,0
+46,female,divorced,have,3,masters,2500000,no,2,rent,3,20,10,business,8000000,12.5,35,1,3,2,1,0,1
+25,female,divorced,have,2,masters,500000,no,5,own,7,20,15,manager,3000000,12.5,15,12,5,2,1,0,1
+24,male,married,have,4,Junior school,3500000,yes,2,rent,5,30,10,business,50000000,15,15,12,0.9,3,1,0,1
+33,female,divorced,have,3,masters,3500000,no,4,own,7,30,10,manager,6000000,13.5,45,12,13,3,0,1,0
+43,male,unmarried,don't have,5,bachelors,900000,no,3,parent's house,3,30,10,executive chef,3000000,12,40,10,5,4,1,0,1
+28,female,unmarried,have,5,bachelors,1800000,yes,6,rent,7,30,20,executive chef,9000000,15,40,10,1,3,1,0,1
+38,male,married,have,4,Junior school,900000,yes,6,rent,3,30,15,business,7000000,15,35,11,10,2,0,1,0
+38,female,unmarried,have,3,Junior school,2500000,no,2,parent's house,3,20,20,manager,30000000,15,45,9,9,1,0,1,0
+43,female,married,have,3,Junior school,2500000,no,4,rent,3,20,15,software engineer,9000000,13,8,12,7,2,0,1,0
+25,male,married,don't have,1,Junior school,1600000,no,6,own,3,30,20,business,2000000,15,40,9,10,2,0,1,0
+42,female,unmarried,have,2,Junior school,1600000,yes,6,parent's house,7,30,10,data analyst,3000000,13.5,12,9,7,2,1,1,0
+50,male,married,have,3,Junior school,5500000,yes,5,rent,7,30,15,business,30000000,15,8,12,20,4,0,0,0
+50,female,divorced,don't have,2,masters,500000,yes,1,parent's house,6,30,10,data analyst,7000000,12.5,15,12,15,2,0,1,0
+28,female,married,don't have,1,masters,2500000,no,6,own,3,20,10,business,4000000,13.5,40,10,1,3,2,0,1
+35,male,married,don't have,1,bachelors,2000000,no,1,rent,3,20,10,business,6000000,12.5,45,10,10,3,0,1,0
+38,male,married,don't have,3,Junior school,2000000,no,5,rent,3,30,20,data analyst,7000000,18,35,9,20,4,1,1,0
+44,male,married,have,5,masters,1800000,yes,4,own,3,30,10,business,3000000,15,12,10,21,2,0,0,0
+28,female,married,don't have,4,bachelors,2500000,yes,4,parent's house,6,20,15,executive chef,30000000,13,8,11,7,1,0,1,0
+29,male,unmarried,don't have,2,bachelors,600000,no,3,parent's house,5,30,15,business,2000000,13.5,10,1,22,3,2,1,0
+38,male,married,have,3,Junior school,2000000,no,5,parent's house,7,30,10,Tech lead,6000000,12.5,18,1,3,2,1,0,1
+31,female,married,don't have,4,Junior school,2500000,no,6,own,6,30,15,executive chef,4000000,18,8,11,9,3,0,0,0
+47,female,married,have,4,Junior school,1600000,no,4,rent,6,20,15,manager,9000000,13,15,12,7,2,0,1,0
+25,female,married,have,4,bachelors,1800000,no,4,parent's house,5,30,20,manager,50000000,12,10,11,15,4,0,1,0
+39,female,divorced,have,4,bachelors,800000,no,1,rent,7,30,15,software engineer,9000000,12.5,18,12,2,3,1,0,1
+23,female,divorced,have,4,masters,2000000,yes,4,own,3,20,20,software engineer,9000000,15,15,12,10,4,0,0,0
+41,female,unmarried,have,1,masters,700000,no,2,parent's house,6,30,15,data analyst,7000000,12.5,15,11,10,1,1,1,0
+21,female,unmarried,don't have,2,bachelors,1800000,no,4,rent,3,30,20,Tech lead,5000000,18,12,1,1,3,2,0,1
+36,male,unmarried,have,2,bachelors,600000,no,5,parent's house,6,30,20,manager,5000000,12,45,12,12,4,0,0,0
+34,female,divorced,have,2,bachelors,2500000,yes,6,rent,5,20,20,software engineer,2000000,18,8,10,4,4,2,0,1
+46,male,divorced,don't have,4,masters,1800000,no,5,parent's house,5,20,20,executive chef,9000000,13,12,9,5,4,1,0,1
+34,male,married,have,2,masters,500000,yes,5,own,5,30,15,executive chef,6000000,13,12,12,10,3,0,1,0
+41,male,married,don't have,4,Junior school,700000,yes,3,own,6,30,10,business,9000000,15,8,12,7,3,1,1,0
+25,male,unmarried,don't have,3,masters,3500000,no,4,parent's house,7,20,10,business,7000000,15,35,9,1,3,2,0,1
+46,male,unmarried,have,2,Junior school,2000000,yes,1,parent's house,3,30,10,Tech lead,6000000,13.5,10,11,25,3,0,1,0
+30,male,unmarried,don't have,1,masters,1800000,no,5,own,7,30,20,executive chef,30000000,18,12,11,6,4,0,0,0
+42,female,married,don't have,2,masters,2000000,yes,6,own,7,20,20,Tech lead,5000000,15,35,10,8,2,1,1,0
+21,male,divorced,have,2,bachelors,500000,yes,6,own,5,20,20,manager,6000000,13.5,8,12,1,3,1,0,1
+22,male,married,don't have,1,bachelors,1800000,yes,5,own,5,30,20,business,50000000,13.5,15,10,12,4,2,1,0
+31,male,unmarried,have,2,masters,1500000,no,1,rent,7,30,20,data analyst,3000000,13,45,12,15,3,0,1,0
+36,male,married,have,3,bachelors,700000,no,6,rent,7,30,15,executive chef,2000000,13,40,1,0.9,3,1,0,1
+27,female,divorced,don't have,1,masters,600000,no,6,parent's house,5,20,10,data analyst,2000000,15,30,10,20,3,1,1,0
+32,female,divorced,don't have,4,masters,2500000,yes,5,rent,5,30,20,business,7000000,18,18,10,11,2,0,1,0
+42,male,divorced,have,2,masters,1600000,yes,6,parent's house,6,20,10,data analyst,30000000,18,30,11,1,1,1,0,1
+36,female,unmarried,have,4,bachelors,5500000,no,4,parent's house,5,30,20,software engineer,5000000,15,10,11,9,4,0,0,0
+28,male,divorced,have,5,Junior school,2500000,yes,3,own,6,20,20,data analyst,4000000,18,15,1,0.8,4,1,0,1
+38,female,unmarried,have,3,bachelors,700000,no,5,own,5,30,15,software engineer,6000000,13.5,25,1,7,1,0,1,0
+38,female,unmarried,don't have,5,Junior school,800000,yes,6,parent's house,5,30,20,executive chef,30000000,13.5,35,9,3,3,1,0,1
+28,female,married,don't have,4,masters,1800000,yes,3,own,6,20,10,data analyst,5000000,13.5,25,11,9,4,0,1,0
+43,male,unmarried,don't have,2,Junior school,2000000,no,4,rent,7,20,15,executive chef,7000000,13.5,10,11,8,2,0,1,0
+48,male,married,have,1,bachelors,600000,no,1,parent's house,3,30,10,manager,7000000,15,10,1,3,2,1,0,1
+35,male,married,have,1,Junior school,500000,no,2,parent's house,7,30,15,business,50000000,13.5,8,12,5,2,1,0,1
+33,male,unmarried,have,4,bachelors,2000000,no,6,parent's house,3,30,20,data analyst,8000000,12,30,10,0.9,3,1,0,1
+22,male,divorced,have,4,bachelors,600000,no,4,parent's house,7,30,15,business,30000000,12,40,12,13,3,0,1,0
+39,male,married,have,1,Junior school,600000,yes,1,own,6,30,10,business,2000000,18,15,10,5,4,1,0,1
+28,female,unmarried,have,2,masters,800000,yes,3,rent,5,30,20,business,5000000,15,25,9,1,3,1,0,1
+39,male,married,don't have,2,masters,5500000,yes,3,parent's house,6,20,20,manager,7000000,18,35,11,10,2,0,1,0
+31,male,unmarried,don't have,5,Junior school,800000,yes,5,parent's house,6,20,15,executive chef,6000000,18,35,10,9,1,0,1,0
+24,male,married,don't have,5,Junior school,3500000,no,1,parent's house,6,20,20,Tech lead,9000000,15,8,1,7,2,0,1,0
+27,female,married,don't have,3,bachelors,1500000,yes,3,rent,3,20,20,software engineer,5000000,15,15,12,10,2,0,1,0
+36,male,divorced,don't have,1,masters,5500000,yes,1,own,3,20,15,business,50000000,15,15,11,7,2,1,1,0
+44,male,unmarried,have,1,bachelors,2500000,yes,6,own,5,30,15,software engineer,4000000,13.5,25,12,20,4,0,0,0
+38,male,divorced,have,5,bachelors,1500000,yes,1,parent's house,3,30,20,executive chef,30000000,13,30,10,15,2,0,1,0
+32,male,divorced,have,3,bachelors,900000,no,3,own,6,30,15,manager,50000000,13,12,12,1,3,2,0,1
+34,female,unmarried,don't have,3,Junior school,5500000,yes,6,parent's house,3,20,10,software engineer,2000000,13.5,45,12,10,3,0,1,0
+27,female,divorced,don't have,4,masters,3500000,no,5,rent,3,20,15,Tech lead,5000000,18,15,9,20,4,1,1,0
+27,female,divorced,don't have,4,Junior school,2500000,no,2,own,5,30,20,software engineer,7000000,18,40,10,21,2,0,0,0
+45,female,divorced,have,5,bachelors,900000,no,4,rent,3,20,10,executive chef,9000000,12,35,11,7,1,0,1,0
+39,female,unmarried,don't have,4,Junior school,1600000,no,4,own,5,30,20,manager,3000000,13,30,12,22,3,2,1,0
+50,male,unmarried,have,4,Junior school,700000,no,5,own,6,30,20,software engineer,2000000,15,30,9,3,2,1,0,1
+31,female,married,don't have,2,bachelors,800000,yes,6,parent's house,7,30,15,business,50000000,13.5,45,12,9,3,0,0,0
+23,male,married,have,2,Junior school,700000,yes,6,own,6,20,15,software engineer,8000000,15,45,11,7,2,0,1,0
+35,male,married,have,3,masters,2500000,no,3,rent,3,30,10,executive chef,50000000,12.5,12,12,15,4,0,1,0
+35,female,divorced,don't have,2,bachelors,3500000,no,2,rent,7,30,20,executive chef,5000000,12,10,9,2,3,1,0,1
+47,male,divorced,don't have,1,Junior school,700000,no,2,parent's house,7,20,15,Tech lead,9000000,13,18,9,10,4,0,0,0
+41,male,unmarried,have,5,masters,800000,no,4,own,5,20,20,manager,4000000,12,12,1,10,1,1,1,0
+35,female,unmarried,don't have,2,Junior school,1600000,yes,3,parent's house,5,20,15,manager,3000000,18,40,9,1,3,2,0,1
+42,male,married,have,1,masters,3500000,yes,4,own,7,30,15,business,8000000,18,10,11,12,4,0,0,0
+24,male,unmarried,don't have,1,bachelors,1500000,no,3,own,5,30,10,software engineer,4000000,12,12,1,4,4,2,0,1
+35,male,married,don't have,1,bachelors,500000,no,2,parent's house,7,20,15,executive chef,5000000,13.5,18,1,5,4,1,0,1
+36,male,married,have,1,masters,900000,yes,5,own,5,20,15,executive chef,8000000,13,8,9,10,3,0,1,0
+23,female,unmarried,have,4,Junior school,600000,no,5,own,7,30,15,manager,3000000,12,18,1,7,3,1,1,0
+39,female,married,have,2,Junior school,600000,yes,3,rent,3,20,20,business,7000000,15,30,9,1,3,2,0,1
+35,female,divorced,don't have,4,Junior school,800000,no,6,own,6,20,15,manager,7000000,13,8,12,25,3,0,1,0
+33,female,married,have,1,bachelors,600000,yes,5,own,5,20,15,business,50000000,12,40,9,6,4,0,0,0
+43,male,divorced,have,1,Junior school,2500000,no,3,parent's house,6,30,20,business,6000000,13,45,12,8,2,1,1,0
+36,male,married,don't have,1,Junior school,700000,yes,1,parent's house,7,20,20,manager,6000000,13,10,9,1,3,1,0,1
+39,male,married,don't have,2,Junior school,600000,no,5,parent's house,5,20,10,executive chef,9000000,15,18,9,12,4,2,1,0
+36,male,divorced,have,2,Junior school,1800000,yes,3,parent's house,7,30,15,Tech lead,7000000,12,45,9,15,3,0,1,0
+26,male,married,have,1,masters,600000,yes,5,parent's house,3,30,10,manager,9000000,13,30,10,0.9,3,1,0,1
+23,male,married,don't have,3,masters,900000,no,4,rent,3,30,15,software engineer,30000000,13,45,11,20,3,1,1,0
+21,male,unmarried,don't have,2,masters,900000,no,4,parent's house,5,20,15,Tech lead,30000000,12,35,9,11,2,0,1,0
+49,female,unmarried,have,2,masters,900000,yes,6,parent's house,3,20,20,Tech lead,30000000,18,8,1,1,1,1,0,1
+44,male,unmarried,don't have,4,masters,800000,yes,2,own,6,20,15,data analyst,5000000,12.5,18,1,9,4,0,0,0
+22,male,divorced,don't have,5,Junior school,1500000,no,6,parent's house,3,30,10,Tech lead,5000000,12.5,40,1,0.8,4,1,0,1
+24,female,married,have,4,Junior school,700000,yes,5,rent,6,20,15,manager,30000000,13,12,1,7,1,0,1,0
+21,male,unmarried,don't have,1,bachelors,800000,no,6,rent,5,30,10,manager,5000000,13,35,1,3,3,1,0,1
+45,female,married,have,2,masters,1800000,yes,4,rent,3,20,10,data analyst,7000000,15,25,1,9,4,0,1,0
+41,male,divorced,have,2,Junior school,2000000,no,4,rent,6,20,10,data analyst,50000000,12.5,18,1,8,2,0,1,0
+21,female,married,don't have,1,Junior school,1800000,no,4,own,6,30,20,business,7000000,13,30,9,3,2,1,0,1
+47,female,married,have,3,masters,2000000,yes,5,rent,7,30,20,software engineer,5000000,15,35,1,5,2,1,0,1
+22,male,unmarried,have,4,masters,2500000,yes,3,rent,6,20,20,manager,7000000,15,30,10,0.9,3,1,0,1
+33,male,unmarried,have,2,bachelors,2000000,no,4,own,7,30,10,manager,9000000,15,25,9,13,3,0,1,0
+32,male,unmarried,have,5,Junior school,900000,yes,6,own,5,30,15,software engineer,50000000,13,35,11,5,4,1,0,1
+40,female,divorced,don't have,2,Junior school,800000,no,5,own,5,20,15,Tech lead,7000000,12,10,9,1,3,1,0,1
+42,female,divorced,have,3,Junior school,5500000,no,2,own,3,20,15,executive chef,8000000,13.5,12,12,10,2,0,1,0
+25,female,married,have,4,Junior school,2500000,no,2,own,6,20,20,Tech lead,5000000,12,8,10,9,1,0,1,0
+40,female,divorced,don't have,1,bachelors,800000,no,1,rent,3,20,20,software engineer,2000000,12.5,30,1,7,2,0,1,0
+23,male,married,don't have,5,Junior school,2500000,yes,4,parent's house,3,20,15,data analyst,6000000,18,35,9,10,2,0,1,0
+35,female,married,have,1,Junior school,1500000,yes,2,own,7,30,15,manager,8000000,13,35,9,7,2,1,1,0
+37,female,married,don't have,3,masters,2000000,no,2,parent's house,6,30,15,data analyst,5000000,12.5,15,11,20,4,0,0,0
+21,female,unmarried,don't have,2,bachelors,3500000,no,4,rent,6,30,20,Tech lead,9000000,13,40,10,15,2,0,1,0
+45,male,married,have,2,masters,800000,yes,1,parent's house,6,30,10,business,4000000,13,45,12,1,3,2,0,1
+28,male,unmarried,don't have,3,Junior school,2500000,no,3,rent,5,30,20,Tech lead,5000000,15,30,12,10,3,0,1,0
+24,male,unmarried,have,3,Junior school,600000,yes,1,own,6,20,20,Tech lead,50000000,12,40,1,20,4,1,1,0
+43,male,unmarried,have,1,masters,3500000,no,5,rent,3,30,15,manager,5000000,15,12,9,21,2,0,0,0
+22,male,married,don't have,3,masters,700000,yes,5,rent,7,30,20,data analyst,50000000,13,18,10,7,1,0,1,0
+33,male,divorced,don't have,3,bachelors,1500000,no,2,rent,6,20,20,executive chef,50000000,18,12,1,22,3,2,1,0
+33,female,divorced,don't have,3,Junior school,3500000,no,5,parent's house,6,30,20,business,8000000,13.5,8,10,3,2,1,0,1
+29,male,divorced,have,2,Junior school,700000,yes,6,own,3,30,20,manager,3000000,15,8,10,9,3,0,0,0
+42,male,married,have,3,bachelors,5500000,yes,1,own,5,20,15,executive chef,4000000,13.5,40,1,7,2,0,1,0
+43,female,unmarried,don't have,1,Junior school,700000,no,1,rent,5,30,15,Tech lead,30000000,13,8,9,15,4,0,1,0
+47,female,divorced,don't have,5,Junior school,1600000,no,3,rent,3,20,15,Tech lead,5000000,13.5,15,9,2,3,1,0,1
+46,female,divorced,don't have,3,masters,700000,no,5,parent's house,7,20,10,executive chef,50000000,13,45,11,10,4,0,0,0
+42,male,married,have,5,masters,500000,yes,4,own,3,20,10,data analyst,7000000,12,15,10,10,1,1,1,0
+39,female,married,have,4,bachelors,2500000,no,5,own,3,20,15,executive chef,8000000,15,40,10,1,3,2,0,1
+49,female,divorced,don't have,3,Junior school,2500000,no,3,parent's house,6,30,15,software engineer,6000000,12.5,30,11,12,4,0,0,0
+38,female,married,don't have,1,masters,600000,yes,6,parent's house,3,30,15,Tech lead,7000000,18,18,1,4,4,2,0,1
+30,female,married,have,2,masters,500000,yes,2,rent,7,30,10,manager,9000000,18,35,12,5,4,1,0,1
+38,female,married,don't have,2,masters,900000,no,6,parent's house,6,30,20,executive chef,3000000,18,15,10,10,3,0,1,0
+28,male,divorced,don't have,2,Junior school,1600000,yes,5,rent,5,30,20,Tech lead,7000000,13,8,1,7,3,1,1,0
+25,male,divorced,don't have,2,Junior school,500000,yes,2,own,7,30,10,Tech lead,6000000,15,18,10,1,3,2,0,1
+21,female,married,have,1,bachelors,1600000,no,2,parent's house,7,30,20,manager,6000000,12,10,9,25,3,0,1,0
+40,male,divorced,don't have,4,Junior school,2500000,no,4,own,3,20,20,software engineer,50000000,15,40,12,6,4,0,0,0
+47,male,divorced,have,1,bachelors,900000,yes,3,parent's house,7,20,20,executive chef,5000000,12,40,1,8,2,1,1,0
+32,male,divorced,don't have,3,masters,1600000,no,1,own,6,20,15,data analyst,8000000,12,18,11,1,3,1,0,1
+49,female,married,have,4,Junior school,1600000,no,6,parent's house,3,30,15,data analyst,7000000,18,8,1,12,4,2,1,0
+23,male,married,have,3,bachelors,2000000,no,6,own,6,30,15,Tech lead,2000000,18,10,12,15,3,0,1,0
+26,male,unmarried,don't have,3,Junior school,3500000,yes,2,own,3,30,15,data analyst,2000000,12.5,12,11,0.9,3,1,0,1
+46,male,unmarried,don't have,1,bachelors,600000,no,5,rent,3,20,20,business,7000000,13,30,12,20,3,1,1,0
+50,female,unmarried,have,4,masters,3500000,no,1,rent,7,30,10,data analyst,3000000,12.5,35,9,11,2,0,1,0
+39,female,unmarried,don't have,5,Junior school,600000,yes,4,own,3,30,20,Tech lead,50000000,15,18,11,1,1,1,0,1
+36,male,married,have,5,masters,1500000,yes,1,own,5,20,20,business,2000000,13,40,11,9,4,0,0,0
+22,female,married,don't have,3,masters,2500000,no,3,parent's house,6,20,20,manager,30000000,13,15,11,0.8,4,1,0,1
+21,male,married,have,3,bachelors,5500000,no,1,rent,7,30,10,business,4000000,12.5,40,10,7,1,0,1,0
+32,female,divorced,have,5,masters,800000,yes,6,rent,6,20,15,executive chef,8000000,15,10,1,3,3,1,0,1
+41,male,unmarried,don't have,1,Junior school,2000000,yes,1,rent,5,20,20,business,2000000,12,30,10,9,4,0,1,0
+21,female,married,have,3,masters,3500000,no,1,rent,6,20,15,manager,2000000,13,8,11,8,2,0,1,0
+24,male,divorced,don't have,2,bachelors,2000000,yes,5,parent's house,5,20,10,Tech lead,7000000,13,35,11,3,2,1,0,1
+26,female,unmarried,don't have,2,Junior school,5500000,no,4,own,5,20,20,software engineer,8000000,12.5,8,12,5,2,1,0,1
+42,male,married,don't have,1,bachelors,600000,yes,1,parent's house,3,30,15,software engineer,4000000,12,15,9,0.9,3,1,0,1
+24,male,divorced,don't have,2,masters,500000,yes,1,parent's house,6,20,10,data analyst,9000000,13.5,45,10,13,3,0,1,0
+43,male,divorced,have,5,bachelors,600000,no,1,own,3,20,20,Tech lead,6000000,18,10,1,5,4,1,0,1
+48,female,married,have,5,bachelors,3500000,yes,5,rent,3,30,10,business,7000000,12,12,9,1,3,1,0,1
+35,male,divorced,have,5,Junior school,2500000,yes,4,rent,3,30,15,data analyst,50000000,12.5,12,10,10,2,0,1,0
+25,male,married,have,1,bachelors,5500000,no,5,parent's house,6,30,15,manager,7000000,12.5,35,9,9,1,0,1,0
+33,male,divorced,don't have,3,masters,1800000,no,5,parent's house,7,20,20,manager,4000000,15,10,11,7,2,0,1,0
+46,male,divorced,have,5,bachelors,2500000,no,5,own,6,30,15,Tech lead,50000000,12,12,12,10,2,0,1,0
+26,female,married,have,1,Junior school,800000,yes,3,rent,3,30,15,Tech lead,7000000,13.5,15,11,7,2,1,1,0
+33,female,married,don't have,4,masters,500000,yes,3,parent's house,7,20,10,business,7000000,18,40,11,20,4,0,0,0
+40,male,divorced,have,4,masters,900000,no,5,parent's house,6,20,20,manager,5000000,12.5,18,10,15,2,0,1,0
+25,female,unmarried,have,2,bachelors,2500000,yes,4,own,6,30,20,Tech lead,7000000,13,18,10,1,3,2,0,1
+37,male,divorced,have,5,Junior school,600000,no,5,rent,6,30,10,software engineer,9000000,15,35,12,10,3,0,1,0
+25,male,married,don't have,5,masters,2500000,no,6,rent,6,20,15,executive chef,7000000,13,40,10,20,4,1,1,0
+39,male,unmarried,don't have,5,bachelors,500000,no,6,parent's house,6,20,20,manager,6000000,13.5,10,9,21,2,0,0,0
+46,male,divorced,have,5,bachelors,1800000,yes,5,parent's house,6,30,15,Tech lead,30000000,13.5,40,10,7,1,0,1,0
+30,male,divorced,don't have,5,Junior school,600000,yes,4,parent's house,6,30,10,data analyst,6000000,18,25,1,22,3,2,1,0
+31,female,divorced,don't have,4,masters,2000000,yes,6,own,7,30,10,executive chef,8000000,18,12,11,3,2,1,0,1
+48,female,unmarried,don't have,2,bachelors,800000,yes,1,rent,3,30,15,manager,5000000,15,12,11,9,3,0,0,0
+23,male,divorced,have,1,masters,900000,yes,6,rent,6,20,10,manager,5000000,15,15,11,7,2,0,1,0
+42,female,divorced,have,5,bachelors,1600000,no,4,rent,7,30,20,data analyst,8000000,18,40,11,15,4,0,1,0
+50,male,divorced,have,3,masters,1500000,no,6,rent,6,30,20,business,50000000,15,40,9,2,3,1,0,1
+22,female,divorced,don't have,3,bachelors,1800000,yes,1,rent,7,30,10,software engineer,5000000,15,8,1,10,4,0,0,0
+35,male,married,have,2,masters,2500000,no,3,rent,3,30,10,Tech lead,4000000,12.5,25,12,10,1,1,1,0
+34,female,divorced,have,3,bachelors,2000000,yes,5,rent,7,20,10,manager,9000000,12.5,18,10,1,3,2,0,1
+37,male,married,don't have,2,bachelors,500000,no,2,own,5,20,15,data analyst,8000000,13.5,30,11,12,4,0,0,0
+41,male,married,don't have,2,Junior school,5500000,no,5,rent,6,20,10,Tech lead,4000000,13,15,10,4,4,2,0,1
+43,female,divorced,have,4,Junior school,800000,yes,1,parent's house,7,20,20,data analyst,8000000,18,18,11,5,4,1,0,1
+30,male,unmarried,don't have,5,Junior school,3500000,yes,5,own,5,20,20,executive chef,8000000,13,12,11,10,3,0,1,0
+39,male,divorced,have,2,masters,2000000,no,2,rent,6,30,10,business,8000000,13,10,11,7,3,1,1,0
+48,female,unmarried,don't have,5,masters,1800000,no,5,parent's house,6,20,15,manager,6000000,12,12,12,1,3,2,0,1
+29,male,unmarried,have,3,Junior school,2500000,yes,3,rent,3,20,15,manager,8000000,13.5,40,11,25,3,0,1,0
+42,male,unmarried,have,5,bachelors,1800000,no,4,rent,6,20,15,executive chef,9000000,12,18,11,6,4,0,0,0
+26,male,divorced,have,5,bachelors,5500000,yes,2,own,3,20,20,software engineer,8000000,18,12,9,8,2,1,1,0
+42,female,divorced,have,1,masters,1600000,no,4,own,7,30,10,manager,5000000,13.5,35,9,1,3,1,0,1
+23,male,divorced,don't have,3,Junior school,800000,no,1,rent,7,30,20,business,9000000,12,15,12,12,4,2,1,0
+48,male,divorced,have,1,Junior school,2500000,yes,2,own,7,30,15,executive chef,50000000,18,30,1,15,3,0,1,0
+26,male,unmarried,have,5,Junior school,1500000,yes,4,parent's house,7,30,10,business,2000000,15,35,11,0.9,3,1,0,1
+30,female,married,have,5,Junior school,3500000,yes,5,parent's house,6,20,20,business,2000000,12.5,30,9,20,3,1,1,0
+50,female,married,have,5,Junior school,5500000,no,1,own,6,20,10,manager,30000000,13.5,30,10,11,2,0,1,0
+39,female,married,don't have,4,Junior school,700000,yes,4,parent's house,6,30,20,data analyst,8000000,13,30,12,1,1,1,0,1
+36,male,unmarried,don't have,3,bachelors,3500000,no,3,parent's house,3,20,15,Tech lead,2000000,13.5,45,9,9,4,0,0,0
+50,male,married,have,2,bachelors,1800000,yes,1,rent,3,30,15,manager,4000000,12,35,11,0.8,4,1,0,1
+26,female,unmarried,don't have,5,Junior school,700000,no,3,rent,3,30,20,software engineer,3000000,13,45,11,7,1,0,1,0
+23,female,divorced,have,5,masters,3500000,no,1,rent,7,20,10,Tech lead,6000000,15,45,11,3,3,1,0,1
+43,male,unmarried,have,2,masters,500000,yes,4,parent's house,6,20,15,data analyst,9000000,12,25,10,9,4,0,1,0
+31,female,divorced,have,5,masters,500000,no,2,rent,6,30,10,data analyst,30000000,13.5,40,9,8,2,0,1,0
+39,female,divorced,don't have,3,masters,600000,no,6,own,7,30,15,manager,9000000,13.5,12,1,3,2,1,0,1
+41,female,divorced,have,1,bachelors,500000,yes,3,own,7,20,20,executive chef,30000000,13.5,15,9,5,2,1,0,1
+38,male,unmarried,don't have,2,masters,600000,no,5,rent,7,30,20,software engineer,8000000,18,18,11,0.9,3,1,0,1
+24,male,unmarried,have,5,masters,500000,no,1,rent,6,30,20,manager,5000000,15,12,12,13,3,0,1,0
+36,female,divorced,don't have,4,Junior school,2000000,yes,4,rent,5,30,15,data analyst,30000000,12,45,9,5,4,1,0,1
+21,female,divorced,have,2,masters,1500000,yes,4,parent's house,6,20,20,software engineer,6000000,15,45,9,1,3,1,0,1
+45,male,unmarried,don't have,4,bachelors,600000,yes,5,parent's house,3,30,10,executive chef,5000000,15,30,12,10,2,0,1,0
+23,male,divorced,have,5,bachelors,3500000,no,2,rent,3,30,15,executive chef,7000000,12,18,12,9,1,0,1,0
+30,male,married,have,1,bachelors,3500000,yes,1,rent,5,20,20,software engineer,30000000,13.5,12,12,7,2,0,1,0
+34,male,married,don't have,2,Junior school,900000,yes,4,parent's house,7,30,15,executive chef,4000000,13.5,8,12,10,2,0,1,0
+29,male,unmarried,have,3,bachelors,2000000,yes,4,own,3,30,15,Tech lead,9000000,13,40,1,7,2,1,1,0
+26,male,married,don't have,2,masters,1600000,yes,2,rent,5,20,20,software engineer,9000000,12.5,30,9,20,4,0,0,0
+25,male,divorced,don't have,4,masters,700000,no,2,own,7,30,10,software engineer,2000000,15,30,11,15,2,0,1,0
+50,male,divorced,have,5,masters,800000,yes,3,own,6,30,20,executive chef,2000000,12.5,15,12,1,3,2,0,1
+27,male,divorced,don't have,4,Junior school,600000,no,4,parent's house,6,30,20,executive chef,6000000,13.5,45,12,10,3,0,1,0
+45,female,unmarried,don't have,4,Junior school,500000,no,3,own,6,30,10,business,3000000,13,18,12,20,4,1,1,0
+49,female,divorced,have,3,Junior school,5500000,no,5,own,7,30,15,data analyst,3000000,13,30,10,21,2,0,0,0
+32,male,unmarried,have,4,bachelors,3500000,yes,2,own,5,30,20,executive chef,4000000,13,35,10,7,1,0,1,0
+48,male,unmarried,have,5,Junior school,3500000,no,1,parent's house,6,30,15,software engineer,5000000,12.5,35,9,22,3,2,1,0
+49,female,divorced,don't have,4,Junior school,600000,no,4,parent's house,3,30,10,Tech lead,2000000,15,30,11,3,2,1,0,1
+34,female,unmarried,have,3,bachelors,700000,yes,2,rent,6,20,15,data analyst,6000000,13.5,45,9,9,3,0,0,0
+49,male,divorced,don't have,1,Junior school,600000,no,3,rent,5,30,15,data analyst,2000000,13,8,11,7,2,0,1,0
+44,male,divorced,don't have,1,Junior school,800000,no,4,rent,5,20,15,manager,7000000,13,35,11,15,4,0,1,0
+36,male,divorced,have,4,masters,500000,yes,4,rent,7,30,15,manager,2000000,13.5,30,1,2,3,1,0,1
+38,male,married,have,1,Junior school,700000,no,5,parent's house,7,30,15,business,50000000,13,18,12,10,4,0,0,0
+40,male,divorced,have,4,masters,2000000,yes,3,own,5,20,10,executive chef,50000000,12,35,12,10,1,1,1,0
+42,female,unmarried,have,5,Junior school,800000,yes,6,rent,3,20,15,manager,2000000,12,12,10,1,3,2,0,1
+48,male,divorced,don't have,1,Junior school,800000,no,6,parent's house,7,20,15,business,3000000,13.5,12,10,12,4,0,0,0
+42,female,unmarried,have,5,Junior school,2000000,no,1,parent's house,5,20,20,business,6000000,15,18,11,4,4,2,0,1
+26,male,divorced,have,4,Junior school,600000,yes,6,parent's house,3,30,20,software engineer,7000000,18,25,1,5,4,1,0,1
+42,female,unmarried,don't have,3,Junior school,1500000,yes,1,parent's house,7,20,20,manager,6000000,18,10,1,10,3,0,1,0
+31,female,divorced,have,2,Junior school,2500000,no,1,parent's house,3,20,10,Tech lead,5000000,12.5,45,12,7,3,1,1,0
+33,female,married,don't have,2,masters,1800000,no,5,parent's house,6,30,20,executive chef,50000000,13.5,12,12,1,3,2,0,1
+30,female,unmarried,don't have,4,Junior school,2000000,no,1,own,6,20,10,Tech lead,3000000,15,35,10,25,3,0,1,0
+26,male,unmarried,don't have,1,bachelors,700000,yes,2,rent,7,30,10,software engineer,50000000,18,40,1,6,4,0,0,0
+34,female,unmarried,have,2,bachelors,1600000,yes,2,parent's house,6,30,15,software engineer,5000000,13,8,9,8,2,1,1,0
+32,female,unmarried,don't have,5,masters,3500000,yes,1,rent,3,20,20,data analyst,2000000,18,8,12,1,3,1,0,1
+22,female,married,have,4,Junior school,1500000,no,3,own,3,20,15,Tech lead,9000000,15,45,11,12,4,2,1,0
+24,male,unmarried,have,4,Junior school,1600000,no,3,own,3,30,10,data analyst,2000000,12.5,30,1,15,3,0,1,0
+42,male,unmarried,have,1,bachelors,3500000,no,5,parent's house,3,30,10,Tech lead,3000000,13,35,9,0.9,3,1,0,1
+45,female,married,don't have,4,bachelors,1500000,no,1,own,5,30,15,data analyst,6000000,12,40,1,20,3,1,1,0
+27,male,divorced,don't have,4,bachelors,1800000,yes,1,own,3,30,15,Tech lead,30000000,13,45,11,11,2,0,1,0
+25,male,unmarried,don't have,4,masters,500000,yes,1,own,6,20,20,executive chef,7000000,12.5,8,1,1,1,1,0,1
+45,male,divorced,have,3,Junior school,800000,no,2,parent's house,3,30,15,business,4000000,12,40,9,9,4,0,0,0
+34,male,unmarried,have,1,bachelors,500000,yes,3,rent,5,30,10,software engineer,9000000,18,15,11,0.8,4,1,0,1
+47,female,unmarried,don't have,5,masters,1600000,yes,1,own,6,20,20,business,9000000,13.5,45,1,7,1,0,1,0
+27,male,married,don't have,4,bachelors,500000,no,3,rent,7,30,20,manager,7000000,12.5,30,9,3,3,1,0,1
+28,male,married,have,3,masters,1800000,yes,4,own,3,30,10,executive chef,50000000,13.5,25,10,9,4,0,1,0
+30,female,married,have,5,masters,1500000,yes,2,rent,3,30,20,Tech lead,4000000,18,18,9,8,2,0,1,0
+43,male,unmarried,have,5,bachelors,1800000,yes,3,own,3,20,15,executive chef,50000000,12.5,45,1,3,2,1,0,1
+48,female,married,don't have,5,bachelors,800000,no,1,rent,3,30,10,data analyst,2000000,13,30,9,5,2,1,0,1
+23,female,married,have,3,masters,2500000,yes,5,rent,5,20,10,software engineer,9000000,18,30,11,0.9,3,1,0,1
+36,female,divorced,don't have,5,bachelors,900000,no,4,parent's house,7,20,15,software engineer,30000000,12,30,1,13,3,0,1,0
+27,male,unmarried,have,4,bachelors,1500000,no,5,own,5,30,10,business,2000000,12,45,9,5,4,1,0,1
+24,female,unmarried,don't have,3,bachelors,2000000,yes,5,rent,7,30,20,software engineer,9000000,15,45,9,1,3,1,0,1
+38,female,divorced,have,5,bachelors,3500000,no,4,parent's house,3,20,15,software engineer,4000000,13,35,11,10,2,0,1,0
+25,female,divorced,don't have,4,bachelors,2000000,no,3,rent,6,30,20,executive chef,3000000,13,12,12,9,1,0,1,0
+41,female,married,have,1,masters,3500000,no,4,own,3,30,10,manager,9000000,18,8,12,7,2,0,1,0
+34,female,married,don't have,1,masters,700000,yes,6,own,6,30,10,software engineer,9000000,13,35,1,10,2,0,1,0
+30,male,unmarried,have,2,Junior school,3500000,yes,3,parent's house,3,30,20,business,3000000,13,10,12,7,2,1,1,0
+46,male,divorced,have,5,bachelors,1600000,no,5,own,5,30,15,manager,3000000,13,35,9,20,4,0,0,0
+30,male,divorced,don't have,5,bachelors,800000,no,3,own,3,20,10,manager,9000000,18,8,11,15,2,0,1,0
+32,male,married,have,3,masters,600000,yes,4,rent,7,30,15,manager,3000000,13,12,11,1,3,2,0,1
+24,male,unmarried,don't have,1,masters,600000,no,6,own,5,30,10,data analyst,30000000,13,10,1,10,3,0,1,0
+37,female,divorced,have,5,bachelors,700000,yes,2,parent's house,5,30,10,data analyst,30000000,15,8,12,20,4,1,1,0
+34,male,divorced,don't have,3,masters,1800000,yes,3,rent,3,30,20,executive chef,2000000,12.5,18,9,21,2,0,0,0
+38,female,divorced,have,4,Junior school,800000,yes,6,rent,7,30,10,data analyst,50000000,18,30,1,7,1,0,1,0
+31,female,married,have,1,masters,1800000,no,4,parent's house,5,30,10,software engineer,2000000,15,35,11,22,3,2,1,0
+47,female,unmarried,have,5,Junior school,700000,no,2,rent,6,30,20,data analyst,8000000,13.5,30,12,3,2,1,0,1
+36,female,unmarried,don't have,2,bachelors,1500000,no,2,parent's house,3,30,20,business,30000000,12,8,9,9,3,0,0,0
+47,female,divorced,have,5,Junior school,3500000,yes,5,rent,5,30,20,Tech lead,6000000,13,40,9,7,2,0,1,0
+35,female,married,don't have,5,Junior school,500000,no,3,parent's house,5,30,20,Tech lead,4000000,18,35,9,15,4,0,1,0
+27,male,divorced,don't have,5,Junior school,2000000,no,6,rent,6,20,15,software engineer,6000000,12.5,8,10,2,3,1,0,1
+34,male,married,don't have,4,Junior school,800000,yes,2,rent,3,30,10,business,6000000,13.5,8,11,10,4,0,0,0
+47,female,married,don't have,1,masters,2000000,no,4,rent,6,30,10,data analyst,6000000,12.5,25,1,10,1,1,1,0
+26,female,married,don't have,1,bachelors,2500000,no,3,rent,7,20,10,software engineer,5000000,18,12,9,1,3,2,0,1
+23,female,married,have,3,bachelors,3500000,no,2,rent,3,20,10,business,5000000,13,12,1,12,4,0,0,0
+46,female,divorced,have,5,bachelors,800000,yes,5,parent's house,6,30,15,data analyst,7000000,12.5,10,1,4,4,2,0,1
+24,female,unmarried,don't have,1,Junior school,700000,no,1,parent's house,6,30,15,executive chef,4000000,15,15,11,5,4,1,0,1
+38,female,married,don't have,1,Junior school,800000,no,5,rent,5,30,15,executive chef,30000000,15,45,9,10,3,0,1,0
+27,male,married,don't have,3,bachelors,500000,no,5,rent,5,20,20,business,50000000,13,30,1,7,3,1,1,0
+45,male,unmarried,don't have,2,Junior school,500000,no,1,parent's house,3,30,15,data analyst,7000000,13.5,30,11,1,3,2,0,1
+32,male,married,have,2,masters,900000,yes,3,parent's house,3,30,15,data analyst,4000000,13.5,8,10,25,3,0,1,0
+35,female,married,have,1,bachelors,700000,no,4,own,7,20,10,software engineer,7000000,12.5,35,10,6,4,0,0,0
+47,female,married,don't have,2,bachelors,500000,yes,5,parent's house,7,30,10,software engineer,8000000,18,45,11,8,2,1,1,0
+24,female,unmarried,don't have,3,Junior school,500000,no,1,own,6,30,10,business,50000000,18,25,9,1,3,1,0,1
+31,male,married,don't have,2,Junior school,5500000,yes,5,rent,6,30,15,Tech lead,2000000,13.5,40,10,12,4,2,1,0
+22,male,married,have,4,bachelors,2000000,yes,2,rent,7,20,15,manager,3000000,15,8,12,15,3,0,1,0
+38,female,divorced,have,5,masters,700000,no,4,rent,3,20,15,data analyst,2000000,12.5,12,12,0.9,3,1,0,1
+34,male,divorced,have,3,masters,2500000,yes,1,own,7,20,10,data analyst,8000000,13,25,9,20,3,1,1,0
+30,female,married,don't have,1,masters,900000,no,2,own,3,30,10,business,2000000,13,18,9,11,2,0,1,0
+47,female,married,have,2,Junior school,1600000,yes,4,own,3,20,10,data analyst,8000000,13.5,30,1,1,1,1,0,1
+37,female,unmarried,don't have,3,bachelors,1500000,no,6,own,7,20,20,manager,7000000,15,8,9,9,4,0,0,0
+23,male,married,have,3,bachelors,1600000,yes,5,parent's house,6,30,15,Tech lead,4000000,13.5,35,11,0.8,4,1,0,1
+37,male,married,don't have,3,bachelors,2000000,yes,6,rent,6,30,20,executive chef,8000000,13,8,9,7,1,0,1,0
+49,male,unmarried,have,1,bachelors,1800000,yes,2,parent's house,6,20,15,Tech lead,4000000,15,8,9,3,3,1,0,1
+23,female,married,have,4,bachelors,2000000,no,2,rent,3,20,20,Tech lead,4000000,18,18,11,9,4,0,1,0
+35,male,divorced,have,1,Junior school,500000,yes,6,parent's house,7,20,10,business,3000000,12,40,11,8,2,0,1,0
+48,male,married,have,1,bachelors,3500000,no,6,rent,5,30,15,manager,9000000,12.5,10,1,3,2,1,0,1
+33,male,married,don't have,3,masters,500000,yes,3,own,6,30,10,business,2000000,12.5,10,9,5,2,1,0,1
+32,male,married,don't have,1,bachelors,600000,yes,1,own,5,30,15,business,6000000,12.5,30,12,0.9,3,1,0,1
+33,female,unmarried,don't have,1,bachelors,500000,no,1,parent's house,5,30,15,Tech lead,8000000,12,30,9,13,3,0,1,0
+26,female,unmarried,have,5,bachelors,500000,yes,2,rent,6,20,20,Tech lead,50000000,12.5,35,11,5,4,1,0,1
+27,female,married,don't have,3,masters,1600000,yes,3,parent's house,6,30,20,Tech lead,50000000,12.5,45,12,1,3,1,0,1
+21,male,unmarried,don't have,1,masters,2000000,no,1,parent's house,6,30,10,business,9000000,12,35,9,10,2,0,1,0
+23,female,married,have,2,masters,1600000,no,2,rent,3,30,20,manager,7000000,18,25,1,9,1,0,1,0
+49,female,divorced,have,1,Junior school,800000,no,4,rent,5,20,10,Tech lead,7000000,12,15,11,7,2,0,1,0
+50,female,unmarried,have,2,bachelors,600000,no,1,own,6,30,20,executive chef,3000000,12,40,1,10,2,0,1,0
+40,female,unmarried,don't have,4,masters,900000,yes,5,rent,3,20,10,data analyst,7000000,15,12,1,7,2,1,1,0
+22,male,married,have,4,masters,2500000,no,1,rent,5,20,10,business,2000000,15,18,12,20,4,0,0,0
+38,male,married,don't have,2,bachelors,5500000,yes,1,own,6,30,15,business,9000000,15,10,1,15,2,0,1,0
+43,female,unmarried,don't have,2,Junior school,900000,yes,5,rent,3,30,20,data analyst,2000000,15,18,12,1,3,2,0,1
+48,male,married,don't have,5,bachelors,900000,yes,3,rent,7,20,20,Tech lead,50000000,13,8,11,10,3,0,1,0
+45,female,married,have,4,bachelors,700000,yes,6,parent's house,6,30,10,data analyst,3000000,12.5,18,12,20,4,1,1,0
+48,female,divorced,have,3,masters,5500000,no,1,own,3,20,20,Tech lead,50000000,13,12,9,21,2,0,0,0
+31,male,divorced,have,2,bachelors,1800000,no,3,own,7,30,15,executive chef,50000000,13,25,10,7,1,0,1,0
+38,female,married,have,3,masters,2500000,yes,1,own,7,30,15,data analyst,9000000,12,12,9,22,3,2,1,0
+48,female,married,have,4,masters,1800000,no,1,own,5,20,10,software engineer,3000000,12.5,18,10,3,2,1,0,1
+39,female,unmarried,don't have,1,bachelors,900000,yes,6,own,5,20,15,Tech lead,50000000,12,25,1,9,3,0,0,0
+28,male,divorced,don't have,2,Junior school,2000000,no,6,rent,7,30,15,data analyst,30000000,18,30,10,7,2,0,1,0
+22,male,married,don't have,3,masters,600000,yes,3,own,7,20,15,manager,8000000,12.5,18,10,15,4,0,1,0
+37,male,divorced,don't have,3,Junior school,500000,no,6,own,3,30,20,data analyst,30000000,13.5,45,9,2,3,1,0,1
+38,male,unmarried,have,2,bachelors,1600000,no,2,rent,6,30,20,data analyst,5000000,13,8,10,10,4,0,0,0
+37,male,divorced,don't have,1,bachelors,3500000,yes,3,own,7,30,15,executive chef,8000000,12,45,10,10,1,1,1,0
+42,female,married,don't have,2,bachelors,3500000,no,3,rent,5,30,20,business,8000000,13.5,18,10,1,3,2,0,1
+24,male,divorced,have,3,masters,5500000,yes,4,parent's house,5,30,15,data analyst,6000000,15,45,12,12,4,0,0,0
+37,male,divorced,don't have,5,masters,5500000,no,3,own,6,30,20,Tech lead,30000000,13,45,10,4,4,2,0,1
+23,male,unmarried,have,4,Junior school,600000,no,2,parent's house,3,20,20,business,50000000,15,12,12,5,4,1,0,1
+45,male,married,don't have,5,masters,1800000,no,5,rent,3,20,10,business,2000000,18,10,10,10,3,0,1,0
+45,female,married,don't have,2,masters,1800000,yes,6,parent's house,6,20,20,business,9000000,18,12,10,7,3,1,1,0
+36,female,married,don't have,1,masters,700000,yes,2,parent's house,6,20,20,Tech lead,7000000,12,18,10,1,3,2,0,1
+35,female,married,don't have,3,Junior school,1800000,yes,5,rent,7,30,15,manager,50000000,15,18,9,25,3,0,1,0
+23,female,unmarried,have,1,bachelors,900000,yes,3,own,7,20,15,Tech lead,2000000,13,15,12,6,4,0,0,0
+22,female,married,don't have,2,Junior school,2500000,no,2,parent's house,7,30,15,business,7000000,13.5,15,11,8,2,1,1,0
+41,female,unmarried,have,3,Junior school,2500000,yes,2,rent,6,20,20,data analyst,4000000,13,18,9,1,3,1,0,1
+25,female,divorced,have,2,bachelors,2000000,yes,3,parent's house,6,20,20,software engineer,50000000,13,25,10,12,4,2,1,0
+50,female,married,have,2,Junior school,500000,yes,6,rent,3,20,10,manager,3000000,18,45,10,15,3,0,1,0
+37,female,married,don't have,2,masters,3500000,no,4,parent's house,6,20,10,executive chef,30000000,13.5,15,10,0.9,3,1,0,1
+21,female,divorced,don't have,1,bachelors,1600000,yes,3,rent,6,20,20,executive chef,2000000,13,45,9,20,3,1,1,0
+49,male,divorced,have,2,bachelors,600000,yes,3,rent,6,20,20,executive chef,6000000,15,15,1,11,2,0,1,0
+38,male,unmarried,don't have,4,Junior school,1800000,yes,2,own,7,30,10,Tech lead,3000000,12.5,12,10,1,1,1,0,1
+45,female,divorced,have,5,Junior school,1500000,yes,4,own,7,20,20,Tech lead,6000000,12,15,11,9,4,0,0,0
+49,female,married,don't have,2,bachelors,800000,no,1,own,7,20,20,executive chef,3000000,13,15,11,0.8,4,1,0,1
+36,female,married,don't have,5,masters,1600000,no,3,rent,3,20,15,Tech lead,7000000,15,35,10,7,1,0,1,0
+30,male,married,have,2,masters,1600000,yes,5,parent's house,3,20,10,executive chef,6000000,12.5,30,11,3,3,1,0,1
+21,male,married,have,2,Junior school,1600000,no,1,rent,7,20,20,Tech lead,2000000,18,25,1,9,4,0,1,0
+27,male,married,have,4,masters,5500000,yes,2,own,7,20,20,executive chef,4000000,15,18,1,8,2,0,1,0
+37,female,unmarried,have,2,masters,2000000,yes,1,rent,7,20,10,Tech lead,30000000,18,30,9,3,2,1,0,1
+29,female,married,don't have,1,masters,5500000,no,1,parent's house,6,20,15,data analyst,9000000,12.5,25,1,5,2,1,0,1
+29,female,unmarried,don't have,2,masters,500000,no,4,own,3,20,20,software engineer,2000000,12,8,10,0.9,3,1,0,1
+22,female,divorced,don't have,4,bachelors,800000,yes,2,rent,6,20,15,software engineer,6000000,13,30,12,13,3,0,1,0
+46,female,unmarried,don't have,4,masters,800000,yes,4,parent's house,5,20,20,manager,30000000,18,10,12,5,4,1,0,1
+34,female,unmarried,don't have,5,masters,900000,no,5,parent's house,3,20,10,manager,8000000,18,25,11,1,3,1,0,1
+27,female,divorced,have,2,Junior school,700000,no,5,parent's house,3,30,10,software engineer,8000000,13.5,25,11,10,2,0,1,0
+26,female,unmarried,don't have,4,Junior school,5500000,yes,4,parent's house,6,30,15,Tech lead,9000000,13.5,45,9,9,1,0,1,0
+21,female,divorced,don't have,3,masters,1800000,no,3,rent,7,30,15,manager,9000000,12,18,10,7,2,0,1,0
+42,male,married,don't have,5,masters,800000,no,5,own,7,20,10,software engineer,6000000,13,18,9,10,2,0,1,0
+37,male,divorced,have,2,bachelors,500000,no,5,own,3,20,10,manager,50000000,13,40,11,7,2,1,1,0
+32,male,unmarried,have,3,bachelors,900000,yes,4,own,5,20,10,business,7000000,12.5,18,10,20,4,0,0,0
+33,male,married,don't have,1,Junior school,2000000,no,4,own,6,30,15,software engineer,4000000,18,25,9,15,2,0,1,0
+36,male,divorced,have,3,bachelors,800000,no,3,rent,7,20,20,business,6000000,13.5,30,11,1,3,2,0,1
+33,male,married,don't have,1,bachelors,600000,yes,4,own,3,20,20,executive chef,30000000,12,10,1,10,3,0,1,0
+30,female,unmarried,don't have,5,Junior school,800000,yes,5,own,3,30,15,Tech lead,2000000,13,40,9,20,4,1,1,0
+21,male,unmarried,have,1,masters,500000,no,2,own,3,30,10,Tech lead,50000000,15,15,12,21,2,0,0,0
+38,male,divorced,don't have,3,Junior school,600000,no,3,rent,3,30,10,data analyst,7000000,12,15,11,7,1,0,1,0
+34,female,divorced,don't have,5,Junior school,5500000,no,5,parent's house,7,30,15,Tech lead,8000000,13,12,12,22,3,2,1,0
+32,female,married,don't have,5,bachelors,700000,yes,4,rent,3,20,15,business,5000000,13.5,40,1,3,2,1,0,1
+23,female,unmarried,have,2,bachelors,600000,no,6,parent's house,5,30,20,business,2000000,12.5,12,9,9,3,0,0,0
+21,female,unmarried,have,2,masters,700000,yes,6,parent's house,3,20,20,manager,6000000,15,10,10,7,2,0,1,0
+28,female,divorced,have,5,masters,500000,no,1,own,3,20,15,Tech lead,8000000,18,10,9,15,4,0,1,0
+26,male,unmarried,have,3,masters,1500000,yes,6,own,6,30,20,manager,50000000,15,35,10,2,3,1,0,1
+44,female,married,don't have,5,masters,5500000,yes,1,rent,3,20,10,manager,5000000,13.5,40,12,10,4,0,0,0
+27,male,married,don't have,1,Junior school,5500000,no,3,own,7,20,15,manager,3000000,18,8,11,10,1,1,1,0
+22,female,unmarried,have,2,bachelors,3500000,yes,6,parent's house,7,20,15,data analyst,4000000,15,25,9,1,3,2,0,1
+25,male,married,don't have,5,masters,1800000,yes,1,parent's house,7,30,15,software engineer,2000000,13.5,40,12,12,4,0,0,0
+45,male,divorced,have,2,masters,1600000,no,5,own,5,30,20,data analyst,9000000,13.5,10,1,4,4,2,0,1
+34,female,divorced,don't have,3,bachelors,2000000,yes,5,own,5,20,20,executive chef,8000000,18,45,10,5,4,1,0,1
+38,female,married,don't have,3,masters,1600000,yes,5,own,6,30,15,manager,2000000,13.5,12,11,10,3,0,1,0
+47,female,unmarried,have,4,masters,600000,no,6,own,3,30,15,Tech lead,2000000,18,45,9,7,3,1,1,0
+33,male,unmarried,don't have,1,Junior school,700000,yes,1,rent,7,30,20,manager,50000000,12,25,9,1,3,2,0,1
+47,female,divorced,don't have,1,Junior school,2000000,yes,2,rent,7,30,15,executive chef,8000000,13.5,45,9,25,3,0,1,0
+21,female,unmarried,don't have,2,masters,1500000,yes,2,parent's house,7,20,20,software engineer,30000000,13,8,9,6,4,0,0,0
+41,male,divorced,don't have,3,masters,600000,no,1,rent,5,20,10,software engineer,9000000,13,40,1,8,2,1,1,0
+49,male,married,have,4,bachelors,2500000,yes,2,rent,5,20,20,business,30000000,12,15,1,1,3,1,0,1
+21,female,unmarried,don't have,1,Junior school,700000,no,4,parent's house,6,20,20,software engineer,9000000,18,40,11,12,4,2,1,0
+48,male,married,don't have,5,Junior school,5500000,yes,2,own,3,30,10,Tech lead,50000000,13.5,45,9,15,3,0,1,0
+49,male,married,don't have,1,bachelors,1500000,no,5,parent's house,7,20,20,software engineer,50000000,13,18,12,0.9,3,1,0,1
+48,male,married,don't have,3,bachelors,1500000,yes,4,rent,7,20,15,manager,6000000,12.5,10,9,20,3,1,1,0
+48,male,divorced,have,3,masters,2000000,yes,6,rent,7,20,10,software engineer,9000000,12.5,12,1,11,2,0,1,0
+26,female,divorced,have,1,Junior school,2500000,yes,4,own,5,20,10,Tech lead,8000000,13.5,25,10,1,1,1,0,1
+32,male,unmarried,don't have,4,bachelors,1600000,yes,6,rent,6,30,20,data analyst,9000000,12.5,45,1,9,4,0,0,0
+42,female,divorced,don't have,1,masters,1600000,yes,3,own,5,20,15,manager,50000000,13.5,10,1,0.8,4,1,0,1
+34,female,married,have,1,masters,5500000,yes,1,parent's house,7,30,20,executive chef,3000000,12,10,11,7,1,0,1,0
+27,female,married,don't have,4,bachelors,1600000,no,3,parent's house,5,20,20,Tech lead,8000000,15,30,12,3,3,1,0,1
+45,male,married,don't have,4,Junior school,700000,yes,3,own,3,20,10,data analyst,2000000,13.5,12,10,9,4,0,1,0
+48,male,divorced,have,1,bachelors,5500000,no,3,own,5,30,10,Tech lead,3000000,13,18,12,8,2,0,1,0
+33,male,unmarried,don't have,4,bachelors,1800000,no,6,parent's house,5,30,15,software engineer,30000000,12,8,10,3,2,1,0,1
+34,male,married,have,4,Junior school,900000,yes,5,own,6,30,15,software engineer,9000000,15,45,11,5,2,1,0,1
+48,female,unmarried,don't have,1,Junior school,1600000,no,3,rent,3,20,10,data analyst,50000000,18,30,9,0.9,3,1,0,1
+49,female,married,have,5,masters,1800000,no,6,own,3,20,20,manager,7000000,18,40,9,13,3,0,1,0
+41,female,divorced,have,1,masters,5500000,yes,4,own,5,30,20,data analyst,50000000,12,15,1,5,4,1,0,1
+29,female,divorced,don't have,5,masters,600000,no,5,rent,5,30,20,manager,7000000,13,18,1,1,3,1,0,1
+25,male,divorced,don't have,5,Junior school,800000,no,1,parent's house,7,30,10,data analyst,3000000,13,18,9,10,2,0,1,0
+38,female,divorced,don't have,3,masters,800000,no,3,own,7,30,15,Tech lead,9000000,13,35,9,9,1,0,1,0
+36,female,divorced,have,2,masters,900000,yes,6,own,3,20,15,software engineer,6000000,13.5,30,12,7,2,0,1,0
+34,male,married,have,1,bachelors,500000,yes,1,rent,3,20,15,software engineer,5000000,13,8,11,10,2,0,1,0
+30,male,married,have,2,Junior school,5500000,no,3,own,5,20,10,software engineer,7000000,12,8,11,7,2,1,1,0
+22,female,divorced,don't have,5,bachelors,600000,no,2,parent's house,7,30,20,manager,50000000,13,10,11,20,4,0,0,0
+42,male,unmarried,have,2,Junior school,3500000,no,5,parent's house,6,20,20,manager,9000000,13.5,40,10,15,2,0,1,0
+26,female,unmarried,have,1,Junior school,600000,yes,2,parent's house,7,20,20,business,4000000,12.5,10,12,1,3,2,0,1
+44,female,unmarried,have,2,masters,3500000,yes,5,own,5,30,20,software engineer,6000000,13,30,11,10,3,0,1,0
+22,male,unmarried,have,4,masters,900000,no,2,own,7,20,20,executive chef,30000000,12.5,25,12,20,4,1,1,0
+39,female,divorced,have,2,bachelors,700000,no,5,rent,7,20,15,software engineer,6000000,18,8,9,21,2,0,0,0
+29,male,married,don't have,2,bachelors,1800000,no,4,own,7,20,10,data analyst,5000000,15,10,10,7,1,0,1,0
+38,male,divorced,don't have,4,Junior school,1600000,no,6,own,7,20,10,manager,8000000,13,30,12,22,3,2,1,0
+48,female,divorced,have,5,bachelors,2500000,yes,4,rent,7,30,10,business,5000000,18,30,10,3,2,1,0,1
+41,male,married,have,2,bachelors,900000,yes,6,own,7,20,20,business,4000000,12,45,11,9,3,0,0,0
+47,male,married,have,2,masters,500000,no,5,own,5,20,10,manager,8000000,18,45,9,7,2,0,1,0
+28,male,married,have,3,Junior school,3500000,yes,6,rent,5,20,10,software engineer,5000000,13,18,11,15,4,0,1,0
+28,male,married,don't have,3,bachelors,700000,no,6,rent,7,30,10,manager,3000000,15,15,10,2,3,1,0,1
+39,male,divorced,don't have,5,bachelors,800000,yes,4,parent's house,3,20,20,data analyst,30000000,15,30,10,10,4,0,0,0
+38,male,divorced,don't have,3,bachelors,800000,no,1,parent's house,7,30,10,Tech lead,3000000,18,45,10,10,1,1,1,0
+35,male,married,don't have,5,masters,800000,yes,1,rent,5,20,15,manager,30000000,15,10,11,1,3,2,0,1
+50,female,unmarried,don't have,1,masters,700000,no,6,own,3,20,10,software engineer,6000000,13,45,12,12,4,0,0,0
+24,female,unmarried,have,2,bachelors,3500000,no,2,own,7,30,10,business,8000000,15,25,12,4,4,2,0,1
+28,male,unmarried,don't have,3,masters,1500000,no,2,parent's house,5,30,20,Tech lead,3000000,13,45,10,5,4,1,0,1
+42,male,married,have,3,masters,2000000,no,4,parent's house,3,20,15,software engineer,4000000,13,35,11,10,3,0,1,0
+24,female,unmarried,have,3,Junior school,1800000,yes,5,parent's house,6,20,10,business,7000000,12.5,30,1,7,3,1,1,0
+42,female,married,don't have,4,bachelors,5500000,yes,1,parent's house,7,30,10,business,4000000,15,35,1,1,3,2,0,1
+25,male,unmarried,have,4,masters,5500000,no,4,own,5,20,10,software engineer,30000000,18,45,12,25,3,0,1,0
+29,male,divorced,don't have,5,Junior school,600000,no,5,parent's house,3,30,10,business,30000000,13,35,11,6,4,0,0,0
+21,female,married,have,4,Junior school,500000,yes,2,own,7,20,10,executive chef,50000000,12.5,30,11,8,2,1,1,0
+40,female,divorced,have,5,masters,1500000,no,2,own,5,20,20,Tech lead,4000000,12,45,9,1,3,1,0,1
+50,male,married,have,4,bachelors,600000,no,2,parent's house,7,20,15,executive chef,50000000,12,10,10,12,4,2,1,0
+37,male,unmarried,have,2,masters,1600000,no,3,parent's house,5,30,20,business,2000000,13.5,15,10,15,3,0,1,0
+39,female,married,don't have,2,bachelors,3500000,no,1,parent's house,5,30,20,business,9000000,13,18,10,0.9,3,1,0,1
+21,female,married,have,5,masters,900000,yes,5,parent's house,6,30,10,manager,5000000,15,35,12,20,3,1,1,0
+21,male,divorced,don't have,5,Junior school,5500000,no,6,own,3,20,20,software engineer,8000000,13,45,12,11,2,0,1,0
+35,male,divorced,have,2,bachelors,1500000,yes,3,own,5,30,20,manager,5000000,13,40,10,1,1,1,0,1
+21,male,unmarried,don't have,2,Junior school,500000,yes,3,own,3,20,15,business,9000000,12.5,40,1,9,4,0,0,0
+31,female,divorced,have,5,masters,2500000,yes,6,own,5,20,15,Tech lead,7000000,13,12,12,0.8,4,1,0,1
+25,female,divorced,have,1,Junior school,700000,yes,2,parent's house,5,20,15,data analyst,50000000,18,30,12,7,1,0,1,0
+22,female,divorced,don't have,4,bachelors,600000,yes,2,parent's house,6,30,20,business,9000000,15,40,10,3,3,1,0,1
+23,female,married,have,2,masters,700000,no,5,own,6,20,20,software engineer,5000000,12.5,15,1,9,4,0,1,0
+34,male,unmarried,don't have,4,bachelors,800000,no,5,own,6,30,10,data analyst,3000000,13,35,10,8,2,0,1,0
+22,male,unmarried,don't have,3,bachelors,2000000,no,5,parent's house,5,20,10,manager,30000000,15,15,9,3,2,1,0,1
+26,female,unmarried,have,1,bachelors,2000000,yes,5,own,6,30,15,data analyst,30000000,13.5,35,1,5,2,1,0,1
+35,female,divorced,don't have,3,Junior school,3500000,no,5,rent,5,20,15,data analyst,50000000,12.5,12,1,0.9,3,1,0,1
+28,male,married,don't have,1,bachelors,2500000,yes,6,rent,6,30,20,software engineer,30000000,18,35,1,13,3,0,1,0
+39,male,divorced,have,3,masters,5500000,yes,6,parent's house,3,30,10,manager,5000000,15,10,10,5,4,1,0,1
+39,female,divorced,have,1,bachelors,1800000,yes,1,own,3,30,10,manager,50000000,15,18,10,1,3,1,0,1
+43,male,unmarried,don't have,4,masters,700000,no,3,rent,7,20,10,manager,7000000,13.5,25,12,10,2,0,1,0
+35,female,unmarried,don't have,1,bachelors,3500000,yes,4,own,3,30,15,Tech lead,9000000,12.5,8,10,9,1,0,1,0
+34,male,unmarried,don't have,5,Junior school,2000000,yes,1,rent,7,20,20,manager,30000000,12.5,30,11,7,2,0,1,0
+21,male,married,don't have,5,bachelors,1500000,yes,4,own,3,30,15,manager,6000000,15,25,12,10,2,0,1,0
+42,female,divorced,have,5,masters,900000,yes,6,parent's house,6,20,20,Tech lead,2000000,15,15,11,7,2,1,1,0
+38,female,married,don't have,3,masters,600000,no,3,own,3,30,15,Tech lead,50000000,13,25,10,20,4,0,0,0
+45,male,unmarried,don't have,3,bachelors,3500000,yes,6,own,6,20,20,executive chef,3000000,13,25,11,15,2,0,1,0
+40,male,married,have,2,bachelors,700000,no,6,parent's house,3,30,10,manager,5000000,12.5,12,10,1,3,2,0,1
+22,female,divorced,have,3,masters,1600000,yes,3,own,6,20,20,manager,2000000,12,18,11,10,3,0,1,0
+36,female,unmarried,don't have,4,Junior school,3500000,yes,5,own,7,30,15,executive chef,3000000,12,35,11,20,4,1,1,0
+31,male,unmarried,don't have,1,masters,600000,yes,2,rent,7,20,10,business,8000000,12.5,8,1,21,2,0,0,0
+41,female,unmarried,have,4,masters,600000,no,4,rent,6,30,15,executive chef,9000000,18,8,12,7,1,0,1,0
+46,female,divorced,don't have,2,bachelors,5500000,no,1,rent,6,20,20,business,9000000,13.5,10,9,22,3,2,1,0
+36,male,divorced,don't have,5,Junior school,1600000,no,2,parent's house,6,20,20,Tech lead,3000000,18,45,11,3,2,1,0,1
+26,male,married,have,4,Junior school,2500000,no,2,rent,5,30,20,executive chef,9000000,12,15,1,9,3,0,0,0
+41,female,married,don't have,3,Junior school,3500000,no,5,own,6,30,15,software engineer,3000000,13,12,9,7,2,0,1,0
+29,female,married,have,4,Junior school,2000000,yes,2,parent's house,7,20,10,software engineer,6000000,15,35,11,15,4,0,1,0
+24,female,married,have,5,bachelors,1600000,yes,5,rent,7,20,10,data analyst,9000000,12,12,1,2,3,1,0,1
+29,male,divorced,have,4,Junior school,500000,no,3,own,5,20,15,data analyst,6000000,15,8,11,10,4,0,0,0
+31,male,unmarried,don't have,3,Junior school,2000000,yes,5,rent,5,20,20,manager,7000000,18,25,11,10,1,1,1,0
+43,female,unmarried,have,2,bachelors,1500000,yes,6,own,3,20,20,software engineer,50000000,13.5,30,9,1,3,2,0,1
+30,female,married,don't have,3,bachelors,1600000,yes,4,rent,6,20,20,business,4000000,12,12,9,12,4,0,0,0
+24,female,married,have,4,Junior school,3500000,yes,6,own,7,20,20,software engineer,50000000,15,25,11,4,4,2,0,1
+25,female,divorced,don't have,4,masters,2000000,no,2,rent,3,30,10,Tech lead,6000000,12.5,10,10,5,4,1,0,1
+23,male,married,don't have,3,Junior school,2500000,no,3,own,5,30,10,executive chef,30000000,13,10,12,10,3,0,1,0
+29,male,unmarried,have,2,masters,1600000,yes,6,rent,5,30,10,Tech lead,6000000,18,18,12,7,3,1,1,0
+48,male,unmarried,have,2,bachelors,2500000,no,2,rent,5,20,10,Tech lead,2000000,15,25,10,1,3,2,0,1
+41,male,married,don't have,1,Junior school,800000,yes,2,rent,3,30,15,executive chef,7000000,18,15,10,25,3,0,1,0
+22,female,unmarried,don't have,2,masters,1800000,yes,1,parent's house,3,20,20,business,7000000,18,8,1,6,4,0,0,0
+44,female,divorced,have,4,masters,1800000,no,1,own,7,20,15,data analyst,7000000,15,30,1,8,2,1,1,0
+27,female,married,have,2,bachelors,2500000,yes,2,parent's house,7,20,15,Tech lead,6000000,12,35,11,1,3,1,0,1
+32,female,divorced,have,5,Junior school,1800000,yes,5,own,7,30,15,business,2000000,13.5,18,11,12,4,2,1,0
+25,female,divorced,have,1,Junior school,5500000,no,5,parent's house,7,30,10,business,4000000,15,10,12,15,3,0,1,0
+23,female,divorced,have,3,bachelors,1500000,no,5,parent's house,6,30,10,executive chef,3000000,12,18,1,0.9,3,1,0,1
+29,male,divorced,have,5,Junior school,2500000,yes,5,own,3,20,15,executive chef,9000000,18,12,10,20,3,1,1,0
+31,male,married,have,3,masters,1500000,no,1,rent,5,30,20,data analyst,3000000,13.5,10,1,11,2,0,1,0
+43,male,married,have,1,bachelors,1500000,no,2,parent's house,3,20,20,software engineer,5000000,13.5,40,10,1,1,1,0,1
+39,male,unmarried,don't have,1,bachelors,1500000,no,1,parent's house,7,20,10,software engineer,9000000,12.5,25,1,9,4,0,0,0
+44,male,married,don't have,5,Junior school,2000000,yes,4,parent's house,5,20,10,executive chef,30000000,12,45,12,0.8,4,1,0,1
+29,male,divorced,don't have,1,Junior school,1600000,yes,6,parent's house,7,30,15,software engineer,7000000,18,15,1,7,1,0,1,0
+32,female,divorced,don't have,2,masters,5500000,yes,1,parent's house,3,30,20,software engineer,30000000,13,10,1,3,3,1,0,1
+29,male,unmarried,don't have,5,bachelors,700000,no,2,own,3,30,10,manager,9000000,12.5,12,1,9,4,0,1,0
+24,female,divorced,have,1,Junior school,500000,yes,4,own,6,30,20,Tech lead,5000000,12.5,8,12,8,2,0,1,0
+39,female,divorced,have,3,masters,500000,no,6,rent,6,20,10,data analyst,2000000,15,10,9,3,2,1,0,1
+46,female,unmarried,don't have,5,Junior school,1800000,yes,3,rent,3,20,10,business,2000000,15,30,12,5,2,1,0,1
+50,female,married,don't have,4,Junior school,5500000,yes,3,own,5,30,10,Tech lead,30000000,12,45,9,0.9,3,1,0,1
+37,female,unmarried,don't have,3,bachelors,500000,no,3,own,5,20,10,software engineer,2000000,15,35,11,13,3,0,1,0
+22,female,married,have,4,Junior school,1600000,no,6,parent's house,7,30,10,software engineer,4000000,15,18,10,5,4,1,0,1
+25,female,married,have,3,masters,600000,no,1,rent,5,20,10,data analyst,2000000,13,45,9,1,3,1,0,1
+25,female,divorced,have,1,masters,900000,no,2,parent's house,5,30,15,business,50000000,13.5,12,11,10,2,0,1,0
+41,female,married,have,1,masters,2000000,yes,5,rent,6,20,15,software engineer,7000000,13,10,12,9,1,0,1,0
+33,male,divorced,have,4,bachelors,1500000,yes,4,parent's house,7,30,20,Tech lead,50000000,13.5,15,9,7,2,0,1,0
+48,male,married,don't have,3,Junior school,700000,yes,3,parent's house,6,20,10,business,4000000,15,12,10,10,2,0,1,0
+36,female,unmarried,have,4,masters,900000,no,5,own,7,30,15,Tech lead,3000000,18,15,1,7,2,1,1,0
+42,male,unmarried,have,2,Junior school,1600000,yes,3,rent,7,30,10,Tech lead,8000000,12.5,40,9,20,4,0,0,0
+33,male,divorced,don't have,5,Junior school,1800000,yes,4,rent,5,20,15,data analyst,30000000,15,12,11,15,2,0,1,0
+25,male,married,don't have,2,Junior school,700000,no,6,own,6,30,15,data analyst,6000000,15,25,12,1,3,2,0,1
+41,male,divorced,have,4,masters,800000,no,1,own,6,30,20,executive chef,50000000,13,10,12,10,3,0,1,0
+29,male,divorced,have,3,Junior school,500000,yes,6,rent,7,20,10,data analyst,30000000,13.5,10,9,20,4,1,1,0
+36,male,married,don't have,5,Junior school,5500000,yes,2,own,5,30,15,Tech lead,7000000,12,35,11,21,2,0,0,0
+38,male,married,don't have,2,masters,5500000,yes,2,rent,5,20,20,manager,3000000,18,40,9,7,1,0,1,0
+23,female,married,don't have,4,masters,2000000,yes,1,own,7,20,15,business,8000000,13.5,40,1,22,3,2,1,0
+40,female,married,don't have,3,Junior school,1500000,yes,1,rent,5,20,20,executive chef,8000000,12,30,10,3,2,1,0,1
+41,male,married,have,4,masters,700000,no,1,rent,7,20,15,manager,9000000,12,12,1,9,3,0,0,0
+25,female,married,don't have,3,masters,700000,yes,5,parent's house,6,20,20,Tech lead,9000000,18,18,12,7,2,0,1,0
+40,female,married,don't have,4,bachelors,5500000,yes,2,rent,3,30,20,manager,3000000,12,15,11,15,4,0,1,0
+35,female,divorced,don't have,4,bachelors,700000,yes,1,parent's house,7,20,20,Tech lead,8000000,18,18,10,2,3,1,0,1
+28,female,divorced,don't have,4,Junior school,1500000,no,1,rent,5,20,10,software engineer,4000000,12.5,45,11,10,4,0,0,0
+36,female,unmarried,have,1,masters,2500000,yes,4,rent,6,30,20,executive chef,9000000,12,8,1,10,1,1,1,0
+41,male,unmarried,have,4,Junior school,2000000,yes,2,parent's house,7,20,20,business,3000000,18,18,9,1,3,2,0,1
+28,female,married,don't have,5,Junior school,800000,yes,2,parent's house,3,20,15,manager,30000000,18,30,12,12,4,0,0,0
+29,female,divorced,have,5,Junior school,600000,no,6,own,5,20,10,Tech lead,4000000,12,10,10,4,4,2,0,1
+33,female,unmarried,don't have,4,bachelors,800000,no,5,parent's house,5,20,20,Tech lead,3000000,12.5,40,11,5,4,1,0,1
+28,male,divorced,have,5,bachelors,2500000,yes,2,parent's house,7,20,20,software engineer,5000000,18,40,10,10,3,0,1,0
+28,male,married,have,2,masters,1600000,no,4,rent,3,30,20,executive chef,50000000,12,30,10,7,3,1,1,0
+22,female,divorced,have,2,masters,1500000,no,1,rent,6,20,20,data analyst,6000000,12,40,12,1,3,2,0,1
+41,female,divorced,don't have,1,bachelors,2500000,no,3,parent's house,6,30,20,Tech lead,6000000,12,15,10,25,3,0,1,0
+23,female,divorced,don't have,4,masters,1800000,yes,5,rent,5,30,10,executive chef,2000000,13,18,9,6,4,0,0,0
+33,female,unmarried,don't have,2,masters,2000000,yes,2,own,7,20,20,executive chef,30000000,18,25,1,8,2,1,1,0
+38,female,divorced,don't have,4,Junior school,500000,no,1,own,6,30,10,executive chef,3000000,15,45,10,1,3,1,0,1
+37,male,unmarried,have,3,masters,2500000,yes,3,rent,6,30,15,manager,4000000,18,18,12,12,4,2,1,0
+48,female,divorced,have,1,bachelors,3500000,yes,3,rent,3,20,15,business,9000000,13,40,10,15,3,0,1,0
+46,female,unmarried,don't have,5,masters,2500000,yes,2,rent,6,30,20,executive chef,3000000,13.5,8,9,0.9,3,1,0,1
+31,male,married,don't have,5,masters,5500000,no,1,own,3,20,15,data analyst,7000000,13,15,11,20,3,1,1,0
+50,female,unmarried,don't have,1,bachelors,800000,yes,3,rent,7,20,10,Tech lead,9000000,12,35,10,11,2,0,1,0
+23,male,unmarried,have,3,bachelors,600000,yes,2,rent,3,20,15,manager,3000000,13.5,45,1,1,1,1,0,1
+43,male,married,have,5,Junior school,1600000,yes,5,own,7,30,15,data analyst,2000000,13.5,45,12,9,4,0,0,0
+23,female,married,don't have,2,bachelors,800000,no,5,rent,3,30,10,Tech lead,7000000,15,15,12,0.8,4,1,0,1
+39,male,divorced,don't have,3,bachelors,1500000,yes,6,rent,5,30,10,software engineer,8000000,13,10,10,7,1,0,1,0
+21,female,married,have,4,masters,3500000,yes,2,rent,3,30,10,data analyst,8000000,18,15,9,3,3,1,0,1
+28,male,unmarried,don't have,5,Junior school,3500000,no,6,own,5,30,10,data analyst,30000000,13,30,10,9,4,0,1,0
+35,female,married,don't have,2,Junior school,5500000,no,6,parent's house,6,30,20,business,3000000,13.5,15,12,8,2,0,1,0
+38,female,married,don't have,1,masters,1800000,yes,6,own,7,20,15,Tech lead,50000000,15,30,11,3,2,1,0,1
+29,female,unmarried,have,4,bachelors,1800000,no,1,own,6,30,15,software engineer,6000000,13,25,10,5,2,1,0,1
+21,female,divorced,have,3,masters,800000,no,2,own,5,30,15,executive chef,30000000,12.5,18,1,0.9,3,1,0,1
+24,female,divorced,don't have,5,masters,700000,no,5,own,3,30,20,Tech lead,6000000,13.5,45,10,13,3,0,1,0
+40,male,unmarried,have,3,Junior school,1500000,yes,6,own,3,20,10,executive chef,30000000,13,10,1,5,4,1,0,1
+27,male,divorced,have,3,masters,1500000,no,4,rent,3,30,20,Tech lead,9000000,13.5,30,9,1,3,1,0,1
+47,male,divorced,have,3,masters,700000,yes,4,own,6,20,20,business,6000000,12.5,30,9,10,2,0,1,0
+23,male,unmarried,don't have,3,Junior school,700000,no,6,parent's house,7,20,20,data analyst,7000000,13.5,8,11,9,1,0,1,0
+39,female,unmarried,don't have,5,Junior school,600000,yes,6,rent,3,20,20,business,4000000,15,40,9,7,2,0,1,0
+31,female,unmarried,have,5,masters,3500000,yes,2,rent,6,30,15,manager,30000000,13.5,30,12,10,2,0,1,0
+23,female,married,have,5,masters,1800000,yes,4,rent,6,30,10,executive chef,7000000,13,15,1,7,2,1,1,0
+37,female,divorced,don't have,3,Junior school,900000,yes,4,parent's house,3,20,15,data analyst,6000000,13,45,11,20,4,0,0,0
+38,male,unmarried,have,2,bachelors,800000,no,5,rent,3,20,10,software engineer,2000000,13.5,12,9,15,2,0,1,0
+43,male,married,don't have,1,bachelors,700000,yes,1,parent's house,7,30,20,business,7000000,12.5,18,11,1,3,2,0,1
+39,male,married,have,2,masters,2000000,no,3,own,5,30,10,data analyst,50000000,15,12,11,10,3,0,1,0
+50,female,divorced,don't have,4,bachelors,2500000,no,3,parent's house,3,30,10,software engineer,30000000,12,12,11,20,4,1,1,0
+24,female,unmarried,have,2,bachelors,900000,yes,6,own,3,30,20,Tech lead,50000000,13.5,30,10,21,2,0,0,0
+40,male,unmarried,don't have,5,bachelors,800000,no,1,rent,7,30,10,business,50000000,13.5,18,10,7,1,0,1,0
+29,female,unmarried,have,3,masters,5500000,yes,6,own,6,30,20,executive chef,3000000,15,40,11,22,3,2,1,0
+41,female,divorced,don't have,1,Junior school,700000,yes,5,rent,6,30,15,data analyst,3000000,12.5,8,11,3,2,1,0,1
+49,male,married,have,4,masters,900000,yes,5,rent,5,20,10,manager,4000000,13.5,12,9,9,3,0,0,0
+43,female,unmarried,don't have,1,masters,600000,no,4,own,3,20,10,business,7000000,18,40,12,7,2,0,1,0
+31,female,married,have,3,bachelors,1500000,yes,4,parent's house,6,20,10,business,8000000,13.5,45,9,15,4,0,1,0
+47,male,divorced,have,1,bachelors,700000,no,3,rent,3,20,20,executive chef,2000000,13.5,45,11,2,3,1,0,1
+26,male,married,have,2,masters,1600000,no,5,own,3,30,10,software engineer,30000000,13,10,12,10,4,0,0,0
+21,female,married,have,2,bachelors,600000,yes,1,parent's house,6,20,15,software engineer,50000000,13.5,15,11,10,1,1,1,0
+29,female,unmarried,have,3,bachelors,2000000,yes,2,parent's house,7,30,15,data analyst,50000000,13,30,1,1,3,2,0,1
+21,female,divorced,have,5,bachelors,1600000,yes,5,rent,7,20,10,business,2000000,12,30,10,12,4,0,0,0
+45,male,married,have,1,Junior school,1600000,yes,1,own,7,30,15,executive chef,50000000,13.5,30,10,4,4,2,0,1
+42,female,married,don't have,5,Junior school,1500000,no,1,rent,3,20,20,executive chef,8000000,12,15,9,5,4,1,0,1
+31,male,married,have,2,masters,2500000,no,3,rent,3,30,15,executive chef,4000000,12,25,1,10,3,0,1,0
+42,female,divorced,don't have,4,bachelors,2000000,yes,4,own,3,30,15,executive chef,50000000,15,40,1,7,3,1,1,0
+41,male,unmarried,don't have,4,masters,1500000,no,2,parent's house,3,30,15,software engineer,2000000,15,40,10,1,3,2,0,1
+46,female,divorced,have,1,bachelors,1800000,no,6,own,6,30,15,software engineer,2000000,15,25,11,25,3,0,1,0
+27,male,married,don't have,3,Junior school,900000,yes,6,parent's house,7,20,15,software engineer,9000000,13,45,11,6,4,0,0,0
+27,female,divorced,have,1,Junior school,2500000,yes,2,rent,3,20,10,executive chef,9000000,15,8,12,8,2,1,1,0
+46,male,divorced,don't have,5,masters,2000000,yes,4,rent,5,30,15,software engineer,5000000,18,15,10,1,3,1,0,1
+28,female,unmarried,have,3,masters,1800000,no,4,rent,3,30,20,executive chef,5000000,13.5,45,11,12,4,2,1,0
+33,female,divorced,have,4,Junior school,700000,yes,1,own,3,30,15,executive chef,7000000,13.5,18,12,15,3,0,1,0
+50,female,divorced,have,1,Junior school,800000,yes,5,parent's house,6,20,20,business,6000000,13.5,18,9,0.9,3,1,0,1
+45,female,unmarried,don't have,3,Junior school,1600000,yes,5,own,6,30,20,data analyst,3000000,13.5,8,10,20,3,1,1,0
+21,female,divorced,have,5,masters,700000,no,2,parent's house,5,30,15,software engineer,5000000,15,40,9,11,2,0,1,0
+25,male,unmarried,have,3,Junior school,1600000,no,2,rent,6,30,20,executive chef,8000000,13,10,11,1,1,1,0,1
+33,male,married,have,2,Junior school,800000,yes,2,own,5,30,20,software engineer,8000000,12.5,10,9,9,4,0,0,0
+24,male,divorced,have,5,bachelors,3500000,no,3,own,6,20,15,executive chef,50000000,18,30,9,0.8,4,1,0,1
+33,female,divorced,don't have,1,bachelors,2000000,yes,4,parent's house,6,20,10,software engineer,7000000,12.5,40,12,7,1,0,1,0
+25,female,divorced,have,4,Junior school,800000,no,3,own,6,30,15,executive chef,7000000,18,35,10,3,3,1,0,1
+31,female,divorced,don't have,1,Junior school,2500000,no,4,own,7,20,10,Tech lead,4000000,13.5,30,12,9,4,0,1,0
+31,female,unmarried,don't have,1,bachelors,1500000,no,5,own,5,30,20,Tech lead,30000000,18,35,11,8,2,0,1,0
+35,male,married,have,2,bachelors,1500000,yes,1,parent's house,7,20,15,business,50000000,15,40,11,3,2,1,0,1
+43,male,married,have,2,masters,900000,no,3,parent's house,3,20,15,business,50000000,18,40,11,5,2,1,0,1
+23,male,married,don't have,3,bachelors,500000,no,1,own,7,20,10,data analyst,3000000,13,35,10,0.9,3,1,0,1
+26,male,unmarried,have,4,bachelors,900000,no,4,parent's house,3,20,10,business,50000000,18,35,11,13,3,0,1,0
+42,male,married,have,5,masters,600000,yes,4,own,3,20,20,software engineer,30000000,18,40,1,5,4,1,0,1
+41,female,unmarried,have,2,masters,3500000,no,2,parent's house,5,30,20,manager,7000000,13.5,25,12,1,3,1,0,1
+43,female,divorced,have,4,Junior school,2500000,no,3,parent's house,7,30,15,business,9000000,12,10,9,10,2,0,1,0
+30,female,divorced,don't have,4,masters,900000,no,5,parent's house,5,20,20,business,8000000,12,25,9,9,1,0,1,0
+41,male,married,don't have,3,masters,900000,yes,5,rent,3,20,15,Tech lead,50000000,13.5,12,10,7,2,0,1,0
+24,male,married,don't have,5,masters,500000,yes,2,rent,6,30,20,software engineer,5000000,18,25,11,10,2,0,1,0
+36,female,unmarried,have,4,masters,1600000,no,6,rent,6,30,20,manager,8000000,18,25,10,7,2,1,1,0
+47,male,unmarried,don't have,5,Junior school,900000,no,3,own,5,20,20,executive chef,6000000,13,30,9,20,4,0,0,0
+43,male,married,don't have,4,bachelors,700000,no,4,own,7,20,10,business,3000000,13,25,12,15,2,0,1,0
+50,male,divorced,have,5,bachelors,900000,yes,3,rent,6,20,10,Tech lead,9000000,13.5,40,10,1,3,2,0,1
+50,female,married,don't have,4,bachelors,900000,yes,1,own,6,30,20,data analyst,8000000,15,18,1,10,3,0,1,0
+30,female,divorced,have,4,Junior school,1600000,yes,1,parent's house,6,20,10,manager,2000000,18,35,11,20,4,1,1,0
+30,male,married,don't have,5,bachelors,5500000,no,4,own,3,20,15,business,30000000,18,45,1,21,2,0,0,0
+47,female,unmarried,have,1,Junior school,500000,no,3,parent's house,7,30,15,business,50000000,12,45,9,7,1,0,1,0
+43,male,divorced,don't have,1,masters,700000,no,4,parent's house,6,20,10,business,50000000,13,25,10,22,3,2,1,0
+34,female,divorced,have,3,masters,2000000,yes,3,parent's house,7,30,15,data analyst,4000000,13.5,10,11,3,2,1,0,1
+40,male,unmarried,have,4,Junior school,500000,no,6,own,6,20,20,data analyst,50000000,13.5,15,9,9,3,0,0,0
+47,male,married,have,1,masters,1800000,yes,2,rent,7,30,20,business,50000000,13,8,10,7,2,0,1,0
+21,male,unmarried,have,1,bachelors,1600000,yes,1,parent's house,7,20,20,business,6000000,13.5,30,10,15,4,0,1,0
+41,male,married,have,5,masters,500000,no,3,own,5,20,20,data analyst,7000000,13.5,25,10,2,3,1,0,1
+23,male,divorced,don't have,3,Junior school,700000,no,2,rent,7,30,10,executive chef,7000000,13,40,12,10,4,0,0,0
+23,female,divorced,don't have,1,bachelors,3500000,no,5,rent,7,30,10,manager,4000000,15,10,10,10,1,1,1,0
+40,male,married,have,2,bachelors,1600000,yes,4,own,5,30,10,executive chef,6000000,12,12,11,1,3,2,0,1
+21,male,married,have,5,masters,1600000,yes,1,rent,6,30,10,executive chef,7000000,13,25,9,12,4,0,0,0
+30,male,married,don't have,4,Junior school,800000,no,4,rent,7,20,15,software engineer,3000000,13.5,45,12,4,4,2,0,1
+26,male,married,have,5,Junior school,800000,yes,1,own,5,20,20,data analyst,7000000,13.5,35,12,5,4,1,0,1
+45,female,unmarried,have,4,Junior school,500000,no,6,rent,5,20,10,software engineer,6000000,15,25,11,10,3,0,1,0
+41,male,unmarried,don't have,2,masters,5500000,no,1,rent,6,20,15,software engineer,5000000,15,10,9,7,3,1,1,0
+28,male,divorced,don't have,5,bachelors,1500000,no,1,own,3,20,20,manager,9000000,15,25,11,1,3,2,0,1
+39,male,divorced,don't have,5,bachelors,700000,no,6,own,6,20,10,business,6000000,12,10,11,25,3,0,1,0
+46,female,married,have,1,masters,700000,yes,5,parent's house,5,20,20,executive chef,3000000,12,45,10,6,4,0,0,0
+46,male,divorced,don't have,1,masters,500000,no,4,parent's house,6,20,15,manager,3000000,12.5,25,12,8,2,1,1,0
+35,male,unmarried,have,5,masters,800000,yes,4,own,3,20,15,data analyst,8000000,15,18,1,1,3,1,0,1
+35,male,married,don't have,2,masters,700000,yes,1,rent,5,20,20,executive chef,9000000,15,45,10,12,4,2,1,0
+32,male,married,don't have,4,bachelors,1800000,no,4,rent,7,20,15,manager,8000000,18,40,9,15,3,0,1,0
+21,female,divorced,don't have,2,bachelors,2500000,yes,4,parent's house,3,20,20,data analyst,8000000,18,25,1,0.9,3,1,0,1
+28,male,married,don't have,1,masters,2500000,no,6,rent,6,30,20,manager,6000000,15,15,10,20,3,1,1,0
+47,male,married,have,3,masters,500000,no,2,own,5,20,10,manager,5000000,13,35,10,11,2,0,1,0
+46,male,divorced,don't have,5,Junior school,800000,yes,5,rent,3,20,20,software engineer,4000000,12.5,30,11,1,1,1,0,1
+33,male,married,have,1,bachelors,1500000,yes,1,own,5,30,15,Tech lead,30000000,15,12,12,9,4,0,0,0
+37,female,married,don't have,4,Junior school,2000000,yes,6,parent's house,3,30,15,software engineer,3000000,13,35,10,0.8,4,1,0,1
+23,female,married,don't have,2,bachelors,900000,yes,4,rent,6,20,15,software engineer,8000000,13.5,8,11,7,1,0,1,0
+26,female,unmarried,don't have,5,Junior school,2500000,yes,6,rent,7,20,15,Tech lead,4000000,13,40,12,3,3,1,0,1
+44,female,married,have,3,bachelors,2500000,yes,1,rent,3,20,10,manager,8000000,12,30,1,9,4,0,1,0
+29,female,unmarried,don't have,4,masters,2500000,yes,4,parent's house,5,20,15,Tech lead,9000000,12.5,10,10,8,2,0,1,0
+31,male,married,have,2,bachelors,1500000,yes,1,own,5,20,15,data analyst,6000000,18,10,12,3,2,1,0,1
+44,male,divorced,don't have,3,bachelors,900000,no,6,own,6,20,10,software engineer,50000000,13,40,1,5,2,1,0,1
+45,female,unmarried,have,2,bachelors,3500000,no,1,parent's house,7,30,20,data analyst,30000000,15,40,10,0.9,3,1,0,1
+24,female,divorced,have,4,Junior school,2500000,yes,3,parent's house,6,30,20,data analyst,9000000,12,10,10,13,3,0,1,0
+34,female,married,have,3,masters,900000,no,4,rent,7,20,10,business,4000000,15,15,11,5,4,1,0,1
+43,male,married,have,1,masters,1600000,no,6,own,3,20,10,manager,8000000,13,10,1,1,3,1,0,1
+27,male,married,don't have,3,Junior school,700000,no,2,rent,7,20,15,executive chef,5000000,13.5,35,11,10,2,0,1,0
+43,male,married,don't have,2,bachelors,1800000,yes,3,parent's house,7,30,10,executive chef,8000000,15,8,1,9,1,0,1,0
+36,female,divorced,don't have,2,bachelors,500000,no,5,parent's house,6,30,10,executive chef,4000000,12.5,15,12,7,2,0,1,0
+44,male,divorced,have,5,bachelors,5500000,no,5,own,5,20,20,business,9000000,18,35,12,10,2,0,1,0
+45,male,married,don't have,1,Junior school,3500000,yes,1,parent's house,7,20,10,business,30000000,12,35,11,7,2,1,1,0
+39,male,married,have,3,masters,1600000,no,3,parent's house,6,30,20,business,30000000,13.5,35,10,20,4,0,0,0
+30,male,married,don't have,3,Junior school,1500000,yes,5,rent,3,20,15,manager,8000000,13.5,25,1,15,2,0,1,0
+37,male,married,have,5,Junior school,800000,yes,1,parent's house,3,30,20,data analyst,50000000,18,30,1,1,3,2,0,1
+32,male,divorced,don't have,5,bachelors,2000000,no,4,parent's house,6,30,20,executive chef,2000000,12,40,1,10,3,0,1,0
+34,male,unmarried,have,2,bachelors,900000,no,5,rent,3,30,10,Tech lead,6000000,18,40,1,20,4,1,1,0
+43,female,divorced,have,4,masters,1500000,no,6,rent,5,20,15,business,6000000,18,25,10,21,2,0,0,0
+38,male,married,have,3,masters,900000,no,1,rent,6,30,20,manager,6000000,13.5,40,12,7,1,0,1,0
+21,female,married,have,1,masters,600000,no,1,parent's house,7,30,20,data analyst,5000000,13,40,11,22,3,2,1,0
+29,male,married,have,3,bachelors,2000000,no,1,parent's house,6,30,15,business,7000000,18,40,12,3,2,1,0,1
+36,female,unmarried,don't have,5,Junior school,500000,yes,1,rent,7,30,10,manager,50000000,15,12,9,9,3,0,0,0
+49,female,unmarried,have,1,bachelors,900000,yes,2,rent,7,20,15,manager,4000000,18,8,9,7,2,0,1,0
+23,male,married,have,4,masters,2000000,yes,6,rent,6,20,10,data analyst,30000000,18,18,12,15,4,0,1,0
+43,female,divorced,have,2,Junior school,700000,no,5,own,3,20,15,Tech lead,9000000,12,8,12,2,3,1,0,1
+27,male,married,have,3,bachelors,1600000,no,2,parent's house,6,30,20,data analyst,5000000,15,10,1,10,4,0,0,0
+30,female,married,have,3,bachelors,900000,no,2,parent's house,6,30,10,Tech lead,7000000,12.5,8,9,10,1,1,1,0
+23,female,divorced,have,3,Junior school,600000,no,5,parent's house,3,30,10,business,9000000,12.5,8,11,1,3,2,0,1
+46,male,unmarried,don't have,1,bachelors,3500000,yes,2,rent,7,30,15,software engineer,2000000,12.5,18,12,12,4,0,0,0
+26,male,married,don't have,3,bachelors,1600000,no,6,parent's house,3,20,10,manager,3000000,18,10,1,4,4,2,0,1
+24,female,divorced,don't have,1,bachelors,5500000,no,4,parent's house,7,20,15,business,3000000,18,8,10,5,4,1,0,1
+35,male,divorced,don't have,5,masters,1800000,no,5,rent,7,20,10,business,2000000,18,35,11,10,3,0,1,0
+33,female,married,don't have,1,masters,1600000,yes,1,rent,3,30,10,manager,30000000,12.5,25,12,7,3,1,1,0
+47,male,unmarried,have,3,bachelors,900000,no,3,parent's house,7,20,20,data analyst,8000000,13,15,11,1,3,2,0,1
+50,female,unmarried,have,4,bachelors,900000,yes,6,parent's house,7,30,10,software engineer,50000000,18,40,9,25,3,0,1,0
+42,male,unmarried,have,5,Junior school,3500000,no,6,parent's house,3,20,15,executive chef,50000000,18,8,12,6,4,0,0,0
+49,female,unmarried,have,4,Junior school,600000,no,6,own,6,20,10,executive chef,50000000,12.5,8,9,8,2,1,1,0
+22,female,divorced,have,2,bachelors,900000,yes,2,own,6,30,10,manager,2000000,15,25,10,1,3,1,0,1
+37,female,married,have,4,bachelors,900000,no,2,parent's house,5,30,15,data analyst,50000000,12.5,8,12,12,4,2,1,0
+27,male,unmarried,have,1,masters,500000,yes,5,parent's house,3,30,10,software engineer,6000000,13.5,10,9,15,3,0,1,0
+40,male,unmarried,have,4,Junior school,800000,no,3,parent's house,5,20,20,executive chef,8000000,18,10,1,0.9,3,1,0,1
+23,female,married,have,2,bachelors,3500000,yes,3,own,7,30,20,Tech lead,4000000,18,15,9,20,3,1,1,0
+43,female,divorced,have,5,Junior school,600000,no,5,parent's house,6,20,15,Tech lead,3000000,15,40,9,11,2,0,1,0
+24,male,divorced,don't have,1,masters,2000000,yes,4,rent,7,20,15,Tech lead,7000000,12.5,45,1,1,1,1,0,1
+35,female,married,have,2,bachelors,2500000,yes,1,rent,5,30,10,Tech lead,9000000,12,40,1,9,4,0,0,0
+39,female,unmarried,don't have,5,Junior school,800000,yes,3,rent,3,20,15,software engineer,5000000,12,40,12,0.8,4,1,0,1
+31,male,divorced,have,5,bachelors,1800000,yes,1,parent's house,6,20,15,data analyst,7000000,15,30,10,7,1,0,1,0
+34,female,divorced,have,5,masters,1600000,yes,1,rent,7,20,20,software engineer,4000000,13.5,45,12,3,3,1,0,1
+38,male,divorced,don't have,5,Junior school,5500000,no,1,own,7,30,15,data analyst,8000000,12,12,9,9,4,0,1,0
+43,female,married,have,1,Junior school,3500000,no,2,parent's house,6,30,20,Tech lead,5000000,13.5,8,10,8,2,0,1,0
+32,female,unmarried,don't have,2,bachelors,500000,yes,2,parent's house,5,30,20,data analyst,7000000,12.5,15,1,3,2,1,0,1
+29,male,divorced,don't have,2,masters,1800000,no,2,parent's house,5,20,15,business,7000000,13,8,11,5,2,1,0,1
+42,male,married,don't have,3,Junior school,1600000,no,2,own,3,30,15,business,5000000,12.5,15,10,0.9,3,1,0,1
+37,male,married,don't have,2,masters,3500000,yes,3,rent,5,30,20,business,3000000,13,18,1,13,3,0,1,0
+25,female,divorced,have,5,bachelors,500000,no,3,own,5,30,20,business,2000000,13,12,10,5,4,1,0,1
+38,female,unmarried,don't have,5,masters,1800000,yes,4,parent's house,3,20,10,data analyst,5000000,13.5,25,11,1,3,1,0,1
+49,female,divorced,don't have,4,Junior school,1600000,yes,3,own,6,20,15,data analyst,50000000,18,12,10,10,2,0,1,0
+49,male,unmarried,have,3,Junior school,2500000,yes,3,rent,3,30,15,manager,8000000,12.5,18,9,9,1,0,1,0
+32,female,married,don't have,5,bachelors,900000,yes,3,parent's house,5,30,20,software engineer,7000000,15,12,9,7,2,0,1,0
+24,female,married,don't have,3,Junior school,1800000,yes,4,parent's house,6,30,15,Tech lead,5000000,13.5,8,12,10,2,0,1,0
+29,female,divorced,don't have,1,bachelors,1500000,no,3,parent's house,7,30,15,business,9000000,12,10,9,7,2,1,1,0
+26,male,unmarried,don't have,4,Junior school,600000,yes,2,own,6,30,10,data analyst,50000000,12.5,10,11,20,4,0,0,0
+37,male,married,don't have,5,masters,700000,no,5,own,6,30,15,Tech lead,50000000,13.5,25,11,15,2,0,1,0
+22,female,married,have,2,bachelors,5500000,yes,1,rent,3,20,15,executive chef,5000000,12.5,25,12,1,3,2,0,1
+27,male,unmarried,don't have,4,bachelors,600000,no,3,own,6,30,10,data analyst,4000000,18,12,12,10,3,0,1,0
+30,female,divorced,have,2,Junior school,600000,no,5,rent,6,30,20,manager,9000000,13,30,12,20,4,1,1,0
+44,female,divorced,don't have,3,bachelors,3500000,no,3,parent's house,6,30,10,manager,8000000,13,35,9,21,2,0,0,0
+35,male,married,don't have,3,Junior school,1500000,yes,5,rent,3,30,10,data analyst,3000000,13,45,10,7,1,0,1,0
+47,male,married,don't have,3,masters,1600000,no,5,own,6,30,10,Tech lead,7000000,13.5,25,1,22,3,2,1,0
+42,female,divorced,don't have,3,bachelors,600000,no,6,rent,3,30,20,manager,7000000,12,30,10,3,2,1,0,1
+50,male,unmarried,have,3,bachelors,900000,yes,3,parent's house,7,20,20,executive chef,6000000,15,35,1,9,3,0,0,0
+35,male,divorced,have,5,bachelors,700000,no,5,parent's house,3,30,20,manager,30000000,13.5,10,11,7,2,0,1,0
+26,female,divorced,have,1,Junior school,2500000,yes,1,own,3,20,20,manager,7000000,13.5,12,9,15,4,0,1,0
+40,male,unmarried,have,3,Junior school,900000,yes,5,parent's house,6,20,15,data analyst,3000000,13.5,25,9,2,3,1,0,1
+41,female,married,don't have,2,bachelors,700000,no,1,rent,7,20,10,executive chef,3000000,12,18,12,10,4,0,0,0
+34,female,married,have,3,Junior school,5500000,no,2,parent's house,5,20,15,business,7000000,13.5,25,9,10,1,1,1,0
+47,male,unmarried,have,4,masters,1800000,yes,2,parent's house,7,30,15,data analyst,4000000,18,25,12,1,3,2,0,1
+25,female,divorced,don't have,3,Junior school,600000,yes,6,rent,6,20,20,executive chef,50000000,15,15,1,12,4,0,0,0
+23,female,married,don't have,3,masters,800000,no,4,rent,5,20,10,data analyst,4000000,12.5,18,12,4,4,2,0,1
+43,female,divorced,have,4,masters,1600000,yes,1,parent's house,3,20,20,business,7000000,15,25,1,5,4,1,0,1
+33,female,married,have,3,bachelors,2000000,no,1,own,5,30,15,Tech lead,8000000,12,45,11,10,3,0,1,0
+29,female,unmarried,have,1,bachelors,3500000,yes,5,rent,6,30,20,data analyst,8000000,13,15,1,7,3,1,1,0
+48,female,unmarried,don't have,3,bachelors,800000,yes,5,own,3,30,20,software engineer,6000000,18,10,10,1,3,2,0,1
+22,male,divorced,don't have,5,masters,3500000,no,2,own,5,20,10,Tech lead,8000000,13,45,1,25,3,0,1,0
+43,male,unmarried,don't have,3,masters,800000,yes,1,rent,5,30,10,data analyst,50000000,13,18,11,6,4,0,0,0
+50,male,married,have,3,bachelors,2500000,no,3,rent,3,20,20,business,30000000,12.5,25,12,8,2,1,1,0
+21,female,married,have,2,masters,600000,yes,6,parent's house,6,30,10,data analyst,30000000,12,35,10,1,3,1,0,1
+43,female,married,don't have,4,masters,800000,no,4,own,3,30,20,manager,2000000,18,15,12,12,4,2,1,0
+22,female,divorced,don't have,2,bachelors,2500000,no,6,rent,3,30,20,business,30000000,15,10,9,15,3,0,1,0
